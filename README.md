@@ -1,6 +1,7 @@
 ### Hi there, I'm Luke 👋
 
-### About Me
+### About me:
+
 - 🔭 I’m currently working as a network engineer at Cisco
 - 🌱 I’m currently learning Cisco software-defined networks
 - 😄 Pronouns: he/him
