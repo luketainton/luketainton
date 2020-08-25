@@ -31,11 +31,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 
-2. 
-3. 
-4. 
-5. 
+1. 🗣 Commented on [#100](https://github.com//luketainton/FHeD/issues/100) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+2. 🗣 Commented on [#131](https://github.com//luketainton/FHeD/issues/131) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+3. 🗣 Commented on [#131](https://github.com//luketainton/FHeD/issues/131) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+4. 🎉 Merged PR [#39](https://github.com//luketainton/TrumpTweets/pull/39) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
+5. 🗣 Commented on [#576](https://github.com//louketo/louketo-proxy/issues/576) in [louketo/louketo-proxy](https://github.com//louketo/louketo-proxy)
 <!--END_SECTION:activity-->
 
 ---
