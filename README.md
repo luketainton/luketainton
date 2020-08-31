@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#133](https://github.com//luketainton/FHeD/pull/133) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
-2. 💪 Opened PR [#132](https://github.com//luketainton/FHeD/pull/132) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
-3. 🗣 Commented on [#117](https://github.com//luketainton/FHeD/issues/117) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
-4. 🗣 Commented on [#20](https://github.com//inoda/ontrack/issues/20) in [inoda/ontrack](https://github.com//inoda/ontrack)
-5. ❌ Closed PR [#130](https://github.com//luketainton/FHeD/pull/130) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+1. ❗️ Reopened issue [#117](https://github.com//luketainton/FHeD/issues/117) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+2. 🗣 Commented on [#117](https://github.com//luketainton/FHeD/issues/117) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+3. 🎉 Merged PR [#133](https://github.com//luketainton/FHeD/pull/133) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+4. 💪 Opened PR [#132](https://github.com//luketainton/FHeD/pull/132) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+5. 🗣 Commented on [#117](https://github.com//luketainton/FHeD/issues/117) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
 <!--END_SECTION:activity-->
 
 ---
