@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com//luketainton/TrumpTweets/pull/41) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
-2. 🎉 Merged PR [#40](https://github.com//luketainton/TrumpTweets/pull/40) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
-3. ❗️ Reopened issue [#117](https://github.com//luketainton/FHeD/issues/117) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
-4. 🗣 Commented on [#117](https://github.com//luketainton/FHeD/issues/117) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
-5. 🎉 Merged PR [#133](https://github.com//luketainton/FHeD/pull/133) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+1. ❗️ Closed issue [#136](https://github.com//luketainton/FHeD/issues/136) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+2. 🗣 Commented on [#136](https://github.com//luketainton/FHeD/issues/136) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+3. ❗️ Opened issue [#136](https://github.com//luketainton/FHeD/issues/136) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+4. 🗣 Commented on [#116](https://github.com//luketainton/FHeD/issues/116) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+5. 🎉 Merged PR [#41](https://github.com//luketainton/TrumpTweets/pull/41) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
 <!--END_SECTION:activity-->
 
 ---
