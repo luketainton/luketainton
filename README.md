@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com//luketainton/TrumpTweets/pull/42) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
-2. 🎉 Merged PR [#43](https://github.com//luketainton/TrumpTweets/pull/43) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
-3. 🗣 Commented on [#20](https://github.com//inoda/ontrack/issues/20) in [inoda/ontrack](https://github.com//inoda/ontrack)
+1. 🎉 Merged PR [#45](https://github.com//luketainton/TrumpTweets/pull/45) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
+2. 🎉 Merged PR [#42](https://github.com//luketainton/TrumpTweets/pull/42) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
+3. 🎉 Merged PR [#43](https://github.com//luketainton/TrumpTweets/pull/43) in [luketainton/TrumpTweets](https://github.com//luketainton/TrumpTweets)
 4. 🗣 Commented on [#20](https://github.com//inoda/ontrack/issues/20) in [inoda/ontrack](https://github.com//inoda/ontrack)
-5. 🗣 Commented on [#116](https://github.com//luketainton/FHeD/issues/116) in [luketainton/FHeD](https://github.com//luketainton/FHeD)
+5. 🗣 Commented on [#20](https://github.com//inoda/ontrack/issues/20) in [inoda/ontrack](https://github.com//inoda/ontrack)
 <!--END_SECTION:activity-->
 
 ---
