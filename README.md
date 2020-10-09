@@ -37,8 +37,8 @@
 1. 🗣 Commented on [#36](https://github.com/inoda/ontrack/issues/36) in [inoda/ontrack](https://github.com/inoda/ontrack)
 2. 🗣 Commented on [#36](https://github.com/inoda/ontrack/issues/36) in [inoda/ontrack](https://github.com/inoda/ontrack)
 3. 🗣 Commented on [#36](https://github.com/inoda/ontrack/issues/36) in [inoda/ontrack](https://github.com/inoda/ontrack)
-4. 🎉 Merged PR [#48](https://github.com/luketainton/TrumpTweets/pull/48) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-5. 🎉 Merged PR [#44](https://github.com/luketainton/TrumpTweets/pull/44) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+4. 🗣 Commented on [#36](https://github.com/inoda/ontrack/issues/36) in [inoda/ontrack](https://github.com/inoda/ontrack)
+5. 🎉 Merged PR [#48](https://github.com/luketainton/TrumpTweets/pull/48) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
 <!--END_SECTION:activity-->
 
 ---
