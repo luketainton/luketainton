@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/luketainton/ipinfo/pull/31) in [luketainton/ipinfo](https://github.com/luketainton/ipinfo)
-2. 🎉 Merged PR [#30](https://github.com/luketainton/ipinfo/pull/30) in [luketainton/ipinfo](https://github.com/luketainton/ipinfo)
-3. 🎉 Merged PR [#5](https://github.com/luketainton/warpd-docker/pull/5) in [luketainton/warpd-docker](https://github.com/luketainton/warpd-docker)
-4. ❌ Closed PR [#1](https://github.com/luketainton/luketainton/pull/1) in [luketainton/luketainton](https://github.com/luketainton/luketainton)
-5. 🎉 Merged PR [#56](https://github.com/luketainton/TrumpTweets/pull/56) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+1. 🗣 Commented on [#168](https://github.com/junaid33/opensource.builders/issues/168) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+2. 🗣 Commented on [#214](https://github.com/junaid33/opensource.builders/issues/214) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+3. 🎉 Merged PR [#31](https://github.com/luketainton/ipinfo/pull/31) in [luketainton/ipinfo](https://github.com/luketainton/ipinfo)
+4. 🎉 Merged PR [#30](https://github.com/luketainton/ipinfo/pull/30) in [luketainton/ipinfo](https://github.com/luketainton/ipinfo)
+5. 🎉 Merged PR [#5](https://github.com/luketainton/warpd-docker/pull/5) in [luketainton/warpd-docker](https://github.com/luketainton/warpd-docker)
 <!--END_SECTION:activity-->
 
 ---
