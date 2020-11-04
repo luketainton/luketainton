@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/luketainton/TrumpTweets/pull/57) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-2. 🗣 Commented on [#168](https://github.com/junaid33/opensource.builders/issues/168) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-3. 🗣 Commented on [#214](https://github.com/junaid33/opensource.builders/issues/214) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-4. 🎉 Merged PR [#31](https://github.com/luketainton/ipinfo/pull/31) in [luketainton/ipinfo](https://github.com/luketainton/ipinfo)
-5. 🎉 Merged PR [#30](https://github.com/luketainton/ipinfo/pull/30) in [luketainton/ipinfo](https://github.com/luketainton/ipinfo)
+1. 🎉 Merged PR [#10](https://github.com/luketainton/TrumpTweets-Python/pull/10) in [luketainton/TrumpTweets-Python](https://github.com/luketainton/TrumpTweets-Python)
+2. ❌ Closed PR [#13](https://github.com/luketainton/TeamsUserEnroller/pull/13) in [luketainton/TeamsUserEnroller](https://github.com/luketainton/TeamsUserEnroller)
+3. 🎉 Merged PR [#57](https://github.com/luketainton/TrumpTweets/pull/57) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+4. 🗣 Commented on [#168](https://github.com/junaid33/opensource.builders/issues/168) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+5. 🗣 Commented on [#214](https://github.com/junaid33/opensource.builders/issues/214) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
 <!--END_SECTION:activity-->
 
 ---
