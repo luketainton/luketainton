@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/luketainton/TrumpTweets-Python/pull/10) in [luketainton/TrumpTweets-Python](https://github.com/luketainton/TrumpTweets-Python)
-2. ❌ Closed PR [#13](https://github.com/luketainton/TeamsUserEnroller/pull/13) in [luketainton/TeamsUserEnroller](https://github.com/luketainton/TeamsUserEnroller)
-3. 🎉 Merged PR [#57](https://github.com/luketainton/TrumpTweets/pull/57) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-4. 🗣 Commented on [#168](https://github.com/junaid33/opensource.builders/issues/168) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-5. 🗣 Commented on [#214](https://github.com/junaid33/opensource.builders/issues/214) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+1. 🎉 Merged PR [#4](https://github.com/luketainton/PwnedPW/pull/4) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. ❗️ Closed issue [#3](https://github.com/luketainton/PwnedPW/issues/3) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+3. 💪 Opened PR [#4](https://github.com/luketainton/PwnedPW/pull/4) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. 🎉 Merged PR [#10](https://github.com/luketainton/TrumpTweets-Python/pull/10) in [luketainton/TrumpTweets-Python](https://github.com/luketainton/TrumpTweets-Python)
+5. ❌ Closed PR [#13](https://github.com/luketainton/TeamsUserEnroller/pull/13) in [luketainton/TeamsUserEnroller](https://github.com/luketainton/TeamsUserEnroller)
 <!--END_SECTION:activity-->
 
 ---
