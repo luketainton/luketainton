@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/luketainton/TrumpTweets/pull/65) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-2. 🎉 Merged PR [#66](https://github.com/luketainton/TrumpTweets/pull/66) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-3. 🎉 Merged PR [#63](https://github.com/luketainton/TrumpTweets/pull/63) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-4. 🎉 Merged PR [#64](https://github.com/luketainton/TrumpTweets/pull/64) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-5. 🎉 Merged PR [#60](https://github.com/luketainton/TrumpTweets/pull/60) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+1. 🎉 Merged PR [#67](https://github.com/luketainton/TrumpTweets/pull/67) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+2. 🎉 Merged PR [#65](https://github.com/luketainton/TrumpTweets/pull/65) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+3. 🎉 Merged PR [#66](https://github.com/luketainton/TrumpTweets/pull/66) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+4. 🎉 Merged PR [#63](https://github.com/luketainton/TrumpTweets/pull/63) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+5. 🎉 Merged PR [#64](https://github.com/luketainton/TrumpTweets/pull/64) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
 <!--END_SECTION:activity-->
 
 ---
