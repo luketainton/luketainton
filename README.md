@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/citygate-io/www.citygate.io/pull/9) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
-2. 💪 Opened PR [#9](https://github.com/citygate-io/www.citygate.io/pull/9) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
-3. 🎉 Merged PR [#75](https://github.com/luketainton/TrumpTweets/pull/75) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-4. 🎉 Merged PR [#74](https://github.com/luketainton/TrumpTweets/pull/74) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-5. 🎉 Merged PR [#73](https://github.com/luketainton/TrumpTweets/pull/73) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+1. 🎉 Merged PR [#10](https://github.com/citygate-io/www.citygate.io/pull/10) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
+2. 💪 Opened PR [#10](https://github.com/citygate-io/www.citygate.io/pull/10) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
+3. 🎉 Merged PR [#9](https://github.com/citygate-io/www.citygate.io/pull/9) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
+4. 💪 Opened PR [#9](https://github.com/citygate-io/www.citygate.io/pull/9) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
+5. 🎉 Merged PR [#75](https://github.com/luketainton/TrumpTweets/pull/75) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
 <!--END_SECTION:activity-->
 
 ---
