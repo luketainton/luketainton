@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/luketainton/TrumpTweets/pull/77) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-2. 🎉 Merged PR [#76](https://github.com/luketainton/TrumpTweets/pull/76) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-3. 🎉 Merged PR [#10](https://github.com/citygate-io/www.citygate.io/pull/10) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
-4. 💪 Opened PR [#10](https://github.com/citygate-io/www.citygate.io/pull/10) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
-5. 🎉 Merged PR [#9](https://github.com/citygate-io/www.citygate.io/pull/9) in [citygate-io/www.citygate.io](https://github.com/citygate-io/www.citygate.io)
+1. 🎉 Merged PR [#39](https://github.com/luketainton/ltipinfo/pull/39) in [luketainton/ltipinfo](https://github.com/luketainton/ltipinfo)
+2. 🎉 Merged PR [#11](https://github.com/luketainton/PwnedPW/pull/11) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+3. 🎉 Merged PR [#38](https://github.com/luketainton/ltipinfo/pull/38) in [luketainton/ltipinfo](https://github.com/luketainton/ltipinfo)
+4. 🎉 Merged PR [#79](https://github.com/luketainton/TrumpTweets/pull/79) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+5. 🎉 Merged PR [#10](https://github.com/luketainton/PwnedPW/pull/10) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 <!--END_SECTION:activity-->
 
 ---
