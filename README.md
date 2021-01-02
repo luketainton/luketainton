@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/luketainton/ltipinfo/pull/42) in [luketainton/ltipinfo](https://github.com/luketainton/ltipinfo)
-2. 🎉 Merged PR [#82](https://github.com/luketainton/TrumpTweets/pull/82) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-3. 🎉 Merged PR [#43](https://github.com/luketainton/ltipinfo/pull/43) in [luketainton/ltipinfo](https://github.com/luketainton/ltipinfo)
-4. 🎉 Merged PR [#84](https://github.com/luketainton/TrumpTweets/pull/84) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
-5. 🎉 Merged PR [#85](https://github.com/luketainton/TrumpTweets/pull/85) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+1. 💪 Opened PR [#50](https://github.com/alichtman/deadbolt/pull/50) in [alichtman/deadbolt](https://github.com/alichtman/deadbolt)
+2. 🎉 Merged PR [#42](https://github.com/luketainton/ltipinfo/pull/42) in [luketainton/ltipinfo](https://github.com/luketainton/ltipinfo)
+3. 🎉 Merged PR [#82](https://github.com/luketainton/TrumpTweets/pull/82) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
+4. 🎉 Merged PR [#43](https://github.com/luketainton/ltipinfo/pull/43) in [luketainton/ltipinfo](https://github.com/luketainton/ltipinfo)
+5. 🎉 Merged PR [#84](https://github.com/luketainton/TrumpTweets/pull/84) in [luketainton/TrumpTweets](https://github.com/luketainton/TrumpTweets)
 <!--END_SECTION:activity-->
 
 ---
