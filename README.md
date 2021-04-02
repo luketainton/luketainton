@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/luketainton/luketainton.github.io/pull/6) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
-2. 💪 Opened PR [#6](https://github.com/luketainton/luketainton.github.io/pull/6) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
-3. 🎉 Merged PR [#17](https://github.com/luketainton/PwnedPW/pull/17) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-4. 🎉 Merged PR [#1](https://github.com/luketainton/CatFacts/pull/1) in [luketainton/CatFacts](https://github.com/luketainton/CatFacts)
-5. 🎉 Merged PR [#2](https://github.com/luketainton/iPilot/pull/2) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+1. ❗️ Opened issue [#393](https://github.com/junaid33/opensource.builders/issues/393) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+2. 🎉 Merged PR [#6](https://github.com/luketainton/luketainton.github.io/pull/6) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
+3. 💪 Opened PR [#6](https://github.com/luketainton/luketainton.github.io/pull/6) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
+4. 🎉 Merged PR [#17](https://github.com/luketainton/PwnedPW/pull/17) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 🎉 Merged PR [#1](https://github.com/luketainton/CatFacts/pull/1) in [luketainton/CatFacts](https://github.com/luketainton/CatFacts)
 <!--END_SECTION:activity-->
 
 ---
