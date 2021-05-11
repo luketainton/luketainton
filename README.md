@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/luketainton/TrumpTweets-Python/pull/11) in [luketainton/TrumpTweets-Python](https://github.com/luketainton/TrumpTweets-Python)
-2. 🎉 Merged PR [#142](https://github.com/luketainton/FHeD/pull/142) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-3. ❗️ Opened issue [#393](https://github.com/junaid33/opensource.builders/issues/393) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-4. 🎉 Merged PR [#6](https://github.com/luketainton/luketainton.github.io/pull/6) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
-5. 💪 Opened PR [#6](https://github.com/luketainton/luketainton.github.io/pull/6) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
+1. 🎉 Merged PR [#18](https://github.com/luketainton/PwnedPW/pull/18) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. 🎉 Merged PR [#11](https://github.com/luketainton/TrumpTweets-Python/pull/11) in [luketainton/TrumpTweets-Python](https://github.com/luketainton/TrumpTweets-Python)
+3. 🎉 Merged PR [#142](https://github.com/luketainton/FHeD/pull/142) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+4. ❗️ Opened issue [#393](https://github.com/junaid33/opensource.builders/issues/393) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+5. 🎉 Merged PR [#6](https://github.com/luketainton/luketainton.github.io/pull/6) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
 <!--END_SECTION:activity-->
 
 ---
