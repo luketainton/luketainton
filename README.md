@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/inoda/ontrack/issues/46) in [inoda/ontrack](https://github.com/inoda/ontrack)
-2. 🎉 Merged PR [#19](https://github.com/luketainton/PwnedPW/pull/19) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 💪 Opened PR [#1](https://github.com/AlexanderEDavis/smartmeter/pull/1) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
-4. 🎉 Merged PR [#18](https://github.com/luketainton/PwnedPW/pull/18) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🎉 Merged PR [#11](https://github.com/luketainton/TrumpTweets-Python/pull/11) in [luketainton/TrumpTweets-Python](https://github.com/luketainton/TrumpTweets-Python)
+1. 🎉 Merged PR [#20](https://github.com/luketainton/PwnedPW/pull/20) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. 🎉 Merged PR [#21](https://github.com/luketainton/PwnedPW/pull/21) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+3. 🗣 Commented on [#46](https://github.com/inoda/ontrack/issues/46) in [inoda/ontrack](https://github.com/inoda/ontrack)
+4. 🎉 Merged PR [#19](https://github.com/luketainton/PwnedPW/pull/19) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 💪 Opened PR [#1](https://github.com/AlexanderEDavis/smartmeter/pull/1) in [AlexanderEDavis/smartmeter](https://github.com/AlexanderEDavis/smartmeter)
 <!--END_SECTION:activity-->
 
 ---
