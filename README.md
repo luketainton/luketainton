@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/team-video/aviary.sh/issues/4) in [team-video/aviary.sh](https://github.com/team-video/aviary.sh)
-2. 🎉 Merged PR [#22](https://github.com/luketainton/PwnedPW/pull/22) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🗣 Commented on [#4](https://github.com/netcore-jsa/unimus-linux-installer/issues/4) in [netcore-jsa/unimus-linux-installer](https://github.com/netcore-jsa/unimus-linux-installer)
-4. 💪 Opened PR [#4](https://github.com/netcore-jsa/unimus-linux-installer/pull/4) in [netcore-jsa/unimus-linux-installer](https://github.com/netcore-jsa/unimus-linux-installer)
-5. 🎉 Merged PR [#20](https://github.com/luketainton/PwnedPW/pull/20) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+1. 🎉 Merged PR [#23](https://github.com/luketainton/PwnedPW/pull/23) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. 🗣 Commented on [#4](https://github.com/team-video/aviary.sh/issues/4) in [team-video/aviary.sh](https://github.com/team-video/aviary.sh)
+3. 🎉 Merged PR [#22](https://github.com/luketainton/PwnedPW/pull/22) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. 🗣 Commented on [#4](https://github.com/netcore-jsa/unimus-linux-installer/issues/4) in [netcore-jsa/unimus-linux-installer](https://github.com/netcore-jsa/unimus-linux-installer)
+5. 💪 Opened PR [#4](https://github.com/netcore-jsa/unimus-linux-installer/pull/4) in [netcore-jsa/unimus-linux-installer](https://github.com/netcore-jsa/unimus-linux-installer)
 <!--END_SECTION:activity-->
 
 ---
