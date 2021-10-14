@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/junaid33/opensource.builders/issues/56) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-2. 🗣 Commented on [#409](https://github.com/junaid33/opensource.builders/issues/409) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+1. 💪 Opened PR [#1](https://github.com/dchidell/docker-dnsmasq-web/pull/1) in [dchidell/docker-dnsmasq-web](https://github.com/dchidell/docker-dnsmasq-web)
+2. 🗣 Commented on [#56](https://github.com/junaid33/opensource.builders/issues/56) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
 3. 🗣 Commented on [#409](https://github.com/junaid33/opensource.builders/issues/409) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-4. 🎉 Merged PR [#24](https://github.com/luketainton/PwnedPW/pull/24) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🗣 Commented on [#4](https://github.com/netcore-jsa/unimus-linux-installer/issues/4) in [netcore-jsa/unimus-linux-installer](https://github.com/netcore-jsa/unimus-linux-installer)
+4. 🗣 Commented on [#409](https://github.com/junaid33/opensource.builders/issues/409) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+5. 🎉 Merged PR [#24](https://github.com/luketainton/PwnedPW/pull/24) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 <!--END_SECTION:activity-->
 
 ---
