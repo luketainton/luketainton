@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/dchidell/docker-radius-web/pull/1) in [dchidell/docker-radius-web](https://github.com/dchidell/docker-radius-web)
-2. 💪 Opened PR [#1](https://github.com/dchidell/docker-tacacs-web/pull/1) in [dchidell/docker-tacacs-web](https://github.com/dchidell/docker-tacacs-web)
-3. 💪 Opened PR [#1](https://github.com/dchidell/docker-snmptrap-web/pull/1) in [dchidell/docker-snmptrap-web](https://github.com/dchidell/docker-snmptrap-web)
-4. 💪 Opened PR [#1](https://github.com/dchidell/docker-syslog-web/pull/1) in [dchidell/docker-syslog-web](https://github.com/dchidell/docker-syslog-web)
-5. 💪 Opened PR [#1](https://github.com/dchidell/docker-dnsmasq-web/pull/1) in [dchidell/docker-dnsmasq-web](https://github.com/dchidell/docker-dnsmasq-web)
+1. 💪 Opened PR [#1](https://github.com/dchidell/docker-vpnweb/pull/1) in [dchidell/docker-vpnweb](https://github.com/dchidell/docker-vpnweb)
+2. 💪 Opened PR [#1](https://github.com/dchidell/docker-chronyd-web/pull/1) in [dchidell/docker-chronyd-web](https://github.com/dchidell/docker-chronyd-web)
+3. 💪 Opened PR [#1](https://github.com/dchidell/docker-radius-web/pull/1) in [dchidell/docker-radius-web](https://github.com/dchidell/docker-radius-web)
+4. 💪 Opened PR [#1](https://github.com/dchidell/docker-tacacs-web/pull/1) in [dchidell/docker-tacacs-web](https://github.com/dchidell/docker-tacacs-web)
+5. 💪 Opened PR [#1](https://github.com/dchidell/docker-snmptrap-web/pull/1) in [dchidell/docker-snmptrap-web](https://github.com/dchidell/docker-snmptrap-web)
 <!--END_SECTION:activity-->
 
 ---
