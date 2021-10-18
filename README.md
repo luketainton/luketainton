@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/dchidell/docker-vpnweb/pull/1) in [dchidell/docker-vpnweb](https://github.com/dchidell/docker-vpnweb)
-2. 💪 Opened PR [#1](https://github.com/dchidell/docker-chronyd-web/pull/1) in [dchidell/docker-chronyd-web](https://github.com/dchidell/docker-chronyd-web)
-3. 💪 Opened PR [#1](https://github.com/dchidell/docker-radius-web/pull/1) in [dchidell/docker-radius-web](https://github.com/dchidell/docker-radius-web)
-4. 💪 Opened PR [#1](https://github.com/dchidell/docker-tacacs-web/pull/1) in [dchidell/docker-tacacs-web](https://github.com/dchidell/docker-tacacs-web)
-5. 💪 Opened PR [#1](https://github.com/dchidell/docker-snmptrap-web/pull/1) in [dchidell/docker-snmptrap-web](https://github.com/dchidell/docker-snmptrap-web)
+1. 🎉 Merged PR [#5](https://github.com/luketainton/Traind/pull/5) in [luketainton/Traind](https://github.com/luketainton/Traind)
+2. 🎉 Merged PR [#6](https://github.com/luketainton/Traind/pull/6) in [luketainton/Traind](https://github.com/luketainton/Traind)
+3. 🎉 Merged PR [#2](https://github.com/luketainton/Traind/pull/2) in [luketainton/Traind](https://github.com/luketainton/Traind)
+4. 🎉 Merged PR [#3](https://github.com/luketainton/Traind/pull/3) in [luketainton/Traind](https://github.com/luketainton/Traind)
+5. 🎉 Merged PR [#146](https://github.com/luketainton/FHeD/pull/146) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
 <!--END_SECTION:activity-->
 
 ---
