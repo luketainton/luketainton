@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/luketainton/testing/issues/1) in [luketainton/testing](https://github.com/luketainton/testing)
-2. ❗️ Opened issue [#1](https://github.com/luketainton/testing/issues/1) in [luketainton/testing](https://github.com/luketainton/testing)
-3. 🎉 Merged PR [#5](https://github.com/luketainton/Traind/pull/5) in [luketainton/Traind](https://github.com/luketainton/Traind)
-4. 🎉 Merged PR [#6](https://github.com/luketainton/Traind/pull/6) in [luketainton/Traind](https://github.com/luketainton/Traind)
-5. 🎉 Merged PR [#2](https://github.com/luketainton/Traind/pull/2) in [luketainton/Traind](https://github.com/luketainton/Traind)
+1. 🗣 Commented on [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
+2. 🗣 Commented on [#1](https://github.com/luketainton/testing/issues/1) in [luketainton/testing](https://github.com/luketainton/testing)
+3. 🗣 Commented on [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
+4. ❗️ Opened issue [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
+5. 🗣 Commented on [#1](https://github.com/luketainton/testing/issues/1) in [luketainton/testing](https://github.com/luketainton/testing)
 <!--END_SECTION:activity-->
 
 ---
