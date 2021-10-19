@@ -34,9 +34,9 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
-2. 🗣 Commented on [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
-3. 🗣 Commented on [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
+1. ❗️ Opened issue [#3](https://github.com/luketainton/testing/issues/3) in [luketainton/testing](https://github.com/luketainton/testing)
+2. ❗️ Closed issue [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
+3. ❗️ Closed issue [#1](https://github.com/luketainton/testing/issues/1) in [luketainton/testing](https://github.com/luketainton/testing)
 4. 🗣 Commented on [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
 5. 🗣 Commented on [#2](https://github.com/luketainton/testing/issues/2) in [luketainton/testing](https://github.com/luketainton/testing)
 <!--END_SECTION:activity-->
