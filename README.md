@@ -43,19 +43,6 @@
 
 ---
 
-### 🐤 Latest Tweets
-<!-- TWEET-POST-LIST:START -->
-- [Thanks @bcucebe! https://t.co/jNfVo91Oq0](https://twitter.com/luketainton1/status/1271367023839281152)
-- [What an amazing feeling to know I&#39;ve been shortlisted! Thank you to those who nominated me, I can&#39;t thank you enough! @MyBCU @bc...](https://twitter.com/luketainton1/status/1264173539734609921)
-- [Whoever you are, wherever you are... Thank you! 🙂 #BCUExtraMile https://t.co/Dkp9uRH73m](https://twitter.com/luketainton1/status/1260246375981355008)
-- [Hi everyone!
-
-I&#39;ve been working on a PowerShell module that can help you add users to a Microsoft Teams group in bulk, and I&#39;ve ...](https://twitter.com/luketainton1/status/1253269541230125056)
-- [Hey @GitHubHelp! Is everything OK? I&#39;m getting a lot of 504 errors trying to get to you ☹️](https://twitter.com/luketainton1/status/1252623327916625923)
-<!-- TWEET-POST-LIST:END -->
-
----
-
 [![luketainton's github stats](https://github-readme-stats.vercel.app/api?username=luketainton&count_private=true&show_icons=true)](https://github.com/luketainton)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketainton)](https://github.com/luketainton)
 
