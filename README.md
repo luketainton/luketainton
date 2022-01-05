@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/luketainton/Traind/pull/30) in [luketainton/Traind](https://github.com/luketainton/Traind)
-2. 🎉 Merged PR [#28](https://github.com/luketainton/Traind/pull/28) in [luketainton/Traind](https://github.com/luketainton/Traind)
-3. 🎉 Merged PR [#29](https://github.com/luketainton/Traind/pull/29) in [luketainton/Traind](https://github.com/luketainton/Traind)
-4. 🎉 Merged PR [#27](https://github.com/luketainton/Traind/pull/27) in [luketainton/Traind](https://github.com/luketainton/Traind)
-5. 🎉 Merged PR [#26](https://github.com/luketainton/Traind/pull/26) in [luketainton/Traind](https://github.com/luketainton/Traind)
+1. ❗️ Closed issue [#1](https://github.com/luketainton/iPilot/issues/1) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+2. ❗️ Closed issue [#4](https://github.com/luketainton/iPilot/issues/4) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+3. ❗️ Closed issue [#25](https://github.com/luketainton/PwnedPW/issues/25) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. 🎉 Merged PR [#31](https://github.com/luketainton/PwnedPW/pull/31) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 🎉 Merged PR [#30](https://github.com/luketainton/Traind/pull/30) in [luketainton/Traind](https://github.com/luketainton/Traind)
 <!--END_SECTION:activity-->
 
 ---
