@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#446](https://github.com/junaid33/opensource.builders/issues/446) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-2. ❗️ Closed issue [#3](https://github.com/luketainton/hesk-docker/issues/3) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-3. ❗️ Closed issue [#7](https://github.com/luketainton/luketainton.github.io/issues/7) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
-4. ❗️ Closed issue [#1](https://github.com/luketainton/iPilot/issues/1) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
-5. ❗️ Closed issue [#4](https://github.com/luketainton/iPilot/issues/4) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+1. 🗣 Commented on [#446](https://github.com/junaid33/opensource.builders/issues/446) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+2. ❗️ Opened issue [#446](https://github.com/junaid33/opensource.builders/issues/446) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+3. ❗️ Closed issue [#3](https://github.com/luketainton/hesk-docker/issues/3) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+4. ❗️ Closed issue [#7](https://github.com/luketainton/luketainton.github.io/issues/7) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
+5. ❗️ Closed issue [#1](https://github.com/luketainton/iPilot/issues/1) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
 <!--END_SECTION:activity-->
 
 ---
