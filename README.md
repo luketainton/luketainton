@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#446](https://github.com/junaid33/opensource.builders/issues/446) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-2. 🗣 Commented on [#446](https://github.com/junaid33/opensource.builders/issues/446) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-3. ❗️ Opened issue [#446](https://github.com/junaid33/opensource.builders/issues/446) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-4. ❗️ Closed issue [#3](https://github.com/luketainton/hesk-docker/issues/3) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-5. ❗️ Closed issue [#7](https://github.com/luketainton/luketainton.github.io/issues/7) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
+1. 🎉 Merged PR [#149](https://github.com/luketainton/FHeD/pull/149) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+2. 🎉 Merged PR [#150](https://github.com/luketainton/FHeD/pull/150) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+3. 🎉 Merged PR [#152](https://github.com/luketainton/FHeD/pull/152) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+4. ❌ Closed PR [#151](https://github.com/luketainton/FHeD/pull/151) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+5. 🗣 Commented on [#151](https://github.com/luketainton/FHeD/issues/151) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
 <!--END_SECTION:activity-->
 
 ---
