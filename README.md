@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/luketainton/FHeD/pull/149) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-2. 🎉 Merged PR [#150](https://github.com/luketainton/FHeD/pull/150) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-3. 🎉 Merged PR [#152](https://github.com/luketainton/FHeD/pull/152) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-4. ❌ Closed PR [#151](https://github.com/luketainton/FHeD/pull/151) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-5. 🗣 Commented on [#151](https://github.com/luketainton/FHeD/issues/151) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+1. 🎉 Merged PR [#6](https://github.com/luketainton/iPilot/pull/6) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+2. 🎉 Merged PR [#149](https://github.com/luketainton/FHeD/pull/149) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+3. 🎉 Merged PR [#150](https://github.com/luketainton/FHeD/pull/150) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+4. 🎉 Merged PR [#152](https://github.com/luketainton/FHeD/pull/152) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+5. ❌ Closed PR [#151](https://github.com/luketainton/FHeD/pull/151) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
 <!--END_SECTION:activity-->
 
 ---
