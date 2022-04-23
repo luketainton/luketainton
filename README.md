@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/luketainton/warpd-docker/pull/2) in [luketainton/warpd-docker](https://github.com/luketainton/warpd-docker)
-2. 🎉 Merged PR [#3](https://github.com/luketainton/warpd-docker/pull/3) in [luketainton/warpd-docker](https://github.com/luketainton/warpd-docker)
-3. 🎉 Merged PR [#4](https://github.com/luketainton/hesk-docker/pull/4) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-4. 🎉 Merged PR [#5](https://github.com/luketainton/hesk-docker/pull/5) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-5. 💪 Opened PR [#5](https://github.com/luketainton/hesk-docker/pull/5) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+1. ❌ Closed PR [#4](https://github.com/luketainton/documize-docker/pull/4) in [luketainton/documize-docker](https://github.com/luketainton/documize-docker)
+2. ❌ Closed PR [#2](https://github.com/luketainton/documize-docker/pull/2) in [luketainton/documize-docker](https://github.com/luketainton/documize-docker)
+3. ❌ Closed PR [#3](https://github.com/luketainton/documize-docker/pull/3) in [luketainton/documize-docker](https://github.com/luketainton/documize-docker)
+4. 🎉 Merged PR [#2](https://github.com/luketainton/warpd-docker/pull/2) in [luketainton/warpd-docker](https://github.com/luketainton/warpd-docker)
+5. 🎉 Merged PR [#3](https://github.com/luketainton/warpd-docker/pull/3) in [luketainton/warpd-docker](https://github.com/luketainton/warpd-docker)
 <!--END_SECTION:activity-->
 
 ---
