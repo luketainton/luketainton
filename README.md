@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/luketainton/hesk-docker/issues/6) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-2. 💪 Opened PR [#7](https://github.com/luketainton/hesk-docker/pull/7) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-3. ❌ Closed PR [#4](https://github.com/luketainton/documize-docker/pull/4) in [luketainton/documize-docker](https://github.com/luketainton/documize-docker)
-4. ❌ Closed PR [#2](https://github.com/luketainton/documize-docker/pull/2) in [luketainton/documize-docker](https://github.com/luketainton/documize-docker)
-5. ❌ Closed PR [#3](https://github.com/luketainton/documize-docker/pull/3) in [luketainton/documize-docker](https://github.com/luketainton/documize-docker)
+1. 💪 Opened PR [#8](https://github.com/luketainton/hesk-docker/pull/8) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+2. 🗣 Commented on [#6](https://github.com/luketainton/hesk-docker/issues/6) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+3. 💪 Opened PR [#7](https://github.com/luketainton/hesk-docker/pull/7) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+4. ❌ Closed PR [#4](https://github.com/luketainton/documize-docker/pull/4) in [luketainton/documize-docker](https://github.com/luketainton/documize-docker)
+5. ❌ Closed PR [#2](https://github.com/luketainton/documize-docker/pull/2) in [luketainton/documize-docker](https://github.com/luketainton/documize-docker)
 <!--END_SECTION:activity-->
 
 ---
