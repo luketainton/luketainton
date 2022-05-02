@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/luketainton/PwnedPW/pull/36) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-2. ❌ Closed PR [#1](https://github.com/JamieEC/6to4_converter/pull/1) in [JamieEC/6to4_converter](https://github.com/JamieEC/6to4_converter)
-3. 🎉 Merged PR [#8](https://github.com/luketainton/hesk-docker/pull/8) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-4. 💪 Opened PR [#8](https://github.com/luketainton/hesk-docker/pull/8) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-5. 🗣 Commented on [#6](https://github.com/luketainton/hesk-docker/issues/6) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+1. 🎉 Merged PR [#37](https://github.com/luketainton/PwnedPW/pull/37) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. 🎉 Merged PR [#36](https://github.com/luketainton/PwnedPW/pull/36) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+3. ❌ Closed PR [#1](https://github.com/JamieEC/6to4_converter/pull/1) in [JamieEC/6to4_converter](https://github.com/JamieEC/6to4_converter)
+4. 🎉 Merged PR [#8](https://github.com/luketainton/hesk-docker/pull/8) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+5. 💪 Opened PR [#8](https://github.com/luketainton/hesk-docker/pull/8) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
 <!--END_SECTION:activity-->
 
 ---
