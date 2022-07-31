@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/luketainton/testing/issues/7) in [luketainton/testing](https://github.com/luketainton/testing)
-2. 🗣 Commented on [#7](https://github.com/luketainton/testing/issues/7) in [luketainton/testing](https://github.com/luketainton/testing)
-3. 🗣 Commented on [#7](https://github.com/luketainton/testing/issues/7) in [luketainton/testing](https://github.com/luketainton/testing)
-4. 🗣 Commented on [#7](https://github.com/luketainton/testing/issues/7) in [luketainton/testing](https://github.com/luketainton/testing)
-5. ❗️ Opened issue [#7](https://github.com/luketainton/testing/issues/7) in [luketainton/testing](https://github.com/luketainton/testing)
+1. 🎉 Merged PR [#16](https://github.com/luketainton/pypilot/pull/16) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🎉 Merged PR [#1](https://github.com/luketainton/epage/pull/1) in [luketainton/epage](https://github.com/luketainton/epage)
+3. ❌ Closed PR [#13](https://github.com/luketainton/iPilot/pull/13) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+4. ❌ Closed PR [#14](https://github.com/luketainton/iPilot/pull/14) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+5. ❗️ Closed issue [#7](https://github.com/luketainton/testing/issues/7) in [luketainton/testing](https://github.com/luketainton/testing)
 <!--END_SECTION:activity-->
 
 ---
