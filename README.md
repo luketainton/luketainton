@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/luketainton/epage/pull/5) in [luketainton/epage](https://github.com/luketainton/epage)
-2. 🎉 Merged PR [#1](https://github.com/luketainton/test-concurrent/pull/1) in [luketainton/test-concurrent](https://github.com/luketainton/test-concurrent)
-3. ❗️ Closed issue [#11](https://github.com/luketainton/hesk-docker/issues/11) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+1. ❗️ Opened issue [#8](https://github.com/luketainton/testing/issues/8) in [luketainton/testing](https://github.com/luketainton/testing)
+2. 🎉 Merged PR [#5](https://github.com/luketainton/epage/pull/5) in [luketainton/epage](https://github.com/luketainton/epage)
+3. 🎉 Merged PR [#1](https://github.com/luketainton/test-concurrent/pull/1) in [luketainton/test-concurrent](https://github.com/luketainton/test-concurrent)
 4. ❗️ Closed issue [#11](https://github.com/luketainton/hesk-docker/issues/11) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-5. 🗣 Commented on [#11](https://github.com/luketainton/hesk-docker/issues/11) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+5. ❗️ Closed issue [#11](https://github.com/luketainton/hesk-docker/issues/11) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
 <!--END_SECTION:activity-->
 
 ---
