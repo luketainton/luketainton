@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/luketainton/testing/issues/8) in [luketainton/testing](https://github.com/luketainton/testing)
-2. 🎉 Merged PR [#6](https://github.com/luketainton/epage/pull/6) in [luketainton/epage](https://github.com/luketainton/epage)
-3. 🎉 Merged PR [#18](https://github.com/luketainton/iPilot/pull/18) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
-4. 🎉 Merged PR [#17](https://github.com/luketainton/iPilot/pull/17) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
-5. ❗️ Closed issue [#8](https://github.com/luketainton/testing/issues/8) in [luketainton/testing](https://github.com/luketainton/testing)
+1. ❗️ Closed issue [#9](https://github.com/luketainton/testing/issues/9) in [luketainton/testing](https://github.com/luketainton/testing)
+2. 🗣 Commented on [#9](https://github.com/luketainton/testing/issues/9) in [luketainton/testing](https://github.com/luketainton/testing)
+3. ❗️ Opened issue [#9](https://github.com/luketainton/testing/issues/9) in [luketainton/testing](https://github.com/luketainton/testing)
+4. 🎉 Merged PR [#8](https://github.com/luketainton/epage/pull/8) in [luketainton/epage](https://github.com/luketainton/epage)
+5. 🎉 Merged PR [#7](https://github.com/luketainton/epage/pull/7) in [luketainton/epage](https://github.com/luketainton/epage)
 <!--END_SECTION:activity-->
 
 ---
