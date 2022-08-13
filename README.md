@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/luketainton/iPilot/pull/24) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
-2. 💪 Opened PR [#24](https://github.com/luketainton/iPilot/pull/24) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
-3. 💪 Opened PR [#22](https://github.com/luketainton/iPilot/pull/22) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
-4. ❗️ Closed issue [#9](https://github.com/luketainton/testing/issues/9) in [luketainton/testing](https://github.com/luketainton/testing)
-5. 🗣 Commented on [#9](https://github.com/luketainton/testing/issues/9) in [luketainton/testing](https://github.com/luketainton/testing)
+1. 🎉 Merged PR [#23](https://github.com/luketainton/iPilot/pull/23) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+2. 🎉 Merged PR [#25](https://github.com/luketainton/iPilot/pull/25) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+3. 💪 Opened PR [#25](https://github.com/luketainton/iPilot/pull/25) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+4. 🎉 Merged PR [#2](https://github.com/luketainton/6to4_converter/pull/2) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
+5. 💪 Opened PR [#2](https://github.com/luketainton/6to4_converter/pull/2) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
 <!--END_SECTION:activity-->
 
 ---
