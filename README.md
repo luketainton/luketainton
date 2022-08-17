@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/luketainton/pypilot/pull/17) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-2. 💪 Opened PR [#17](https://github.com/luketainton/pypilot/pull/17) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. 🎉 Merged PR [#63](https://github.com/luketainton/PwnedPW/pull/63) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-4. 💪 Opened PR [#63](https://github.com/luketainton/PwnedPW/pull/63) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🎉 Merged PR [#23](https://github.com/luketainton/iPilot/pull/23) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+1. ❗️ Opened issue [#10](https://github.com/luketainton/testing/issues/10) in [luketainton/testing](https://github.com/luketainton/testing)
+2. 🎉 Merged PR [#17](https://github.com/luketainton/pypilot/pull/17) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+3. 💪 Opened PR [#17](https://github.com/luketainton/pypilot/pull/17) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 🎉 Merged PR [#63](https://github.com/luketainton/PwnedPW/pull/63) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 💪 Opened PR [#63](https://github.com/luketainton/PwnedPW/pull/63) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 <!--END_SECTION:activity-->
 
 ---
