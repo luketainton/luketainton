@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/luketainton/PwnedPW/pull/68) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-2. 🎉 Merged PR [#67](https://github.com/luketainton/PwnedPW/pull/67) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🎉 Merged PR [#3](https://github.com/luketainton/6to4_converter/pull/3) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
-4. 💪 Opened PR [#3](https://github.com/luketainton/6to4_converter/pull/3) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
-5. 🎉 Merged PR [#16](https://github.com/luketainton/hesk-docker/pull/16) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+1. ❗️ Closed issue [#76](https://github.com/unlicense/unlicense.org/issues/76) in [unlicense/unlicense.org](https://github.com/unlicense/unlicense.org)
+2. 🎉 Merged PR [#11](https://github.com/luketainton/epage/pull/11) in [luketainton/epage](https://github.com/luketainton/epage)
+3. 🎉 Merged PR [#68](https://github.com/luketainton/PwnedPW/pull/68) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. 🎉 Merged PR [#67](https://github.com/luketainton/PwnedPW/pull/67) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 🎉 Merged PR [#3](https://github.com/luketainton/6to4_converter/pull/3) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
 <!--END_SECTION:activity-->
 
 ---
