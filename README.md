@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/luketainton/testing/issues/11) in [luketainton/testing](https://github.com/luketainton/testing)
-2. 🎉 Merged PR [#74](https://github.com/luketainton/PwnedPW/pull/74) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🎉 Merged PR [#14](https://github.com/luketainton/epage/pull/14) in [luketainton/epage](https://github.com/luketainton/epage)
-4. 🎉 Merged PR [#75](https://github.com/luketainton/PwnedPW/pull/75) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🎉 Merged PR [#6](https://github.com/luketainton/template-go/pull/6) in [luketainton/template-go](https://github.com/luketainton/template-go)
+1. 🗣 Commented on [#11](https://github.com/luketainton/testing/issues/11) in [luketainton/testing](https://github.com/luketainton/testing)
+2. ❗️ Opened issue [#11](https://github.com/luketainton/testing/issues/11) in [luketainton/testing](https://github.com/luketainton/testing)
+3. 🎉 Merged PR [#74](https://github.com/luketainton/PwnedPW/pull/74) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. 🎉 Merged PR [#14](https://github.com/luketainton/epage/pull/14) in [luketainton/epage](https://github.com/luketainton/epage)
+5. 🎉 Merged PR [#75](https://github.com/luketainton/PwnedPW/pull/75) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 <!--END_SECTION:activity-->
 
 ---
