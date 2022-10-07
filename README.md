@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/luketainton/template-go/pull/7) in [luketainton/template-go](https://github.com/luketainton/template-go)
-2. ❗️ Closed issue [#147](https://github.com/luketainton/FHeD/issues/147) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-3. 🎉 Merged PR [#21](https://github.com/luketainton/pypilot/pull/21) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-4. 🎉 Merged PR [#20](https://github.com/luketainton/pypilot/pull/20) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-5. 🎉 Merged PR [#156](https://github.com/luketainton/FHeD/pull/156) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+1. 🎉 Merged PR [#22](https://github.com/luketainton/pypilot/pull/22) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🎉 Merged PR [#7](https://github.com/luketainton/template-go/pull/7) in [luketainton/template-go](https://github.com/luketainton/template-go)
+3. ❗️ Closed issue [#147](https://github.com/luketainton/FHeD/issues/147) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+4. 🎉 Merged PR [#21](https://github.com/luketainton/pypilot/pull/21) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+5. 🎉 Merged PR [#20](https://github.com/luketainton/pypilot/pull/20) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
 <!--END_SECTION:activity-->
 
 ---
