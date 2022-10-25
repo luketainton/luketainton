@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/luketainton/PwnedPW/pull/79) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-2. 🎉 Merged PR [#76](https://github.com/luketainton/PwnedPW/pull/76) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🎉 Merged PR [#159](https://github.com/luketainton/FHeD/pull/159) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-4. 🎉 Merged PR [#77](https://github.com/luketainton/PwnedPW/pull/77) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🎉 Merged PR [#158](https://github.com/luketainton/FHeD/pull/158) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+1. 💪 Opened PR [#469](https://github.com/junaid33/opensource.builders/pull/469) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+2. ❗️ Closed issue [#11](https://github.com/luketainton/testing/issues/11) in [luketainton/testing](https://github.com/luketainton/testing)
+3. ❗️ Closed issue [#11](https://github.com/luketainton/testing/issues/11) in [luketainton/testing](https://github.com/luketainton/testing)
+4. 🎉 Merged PR [#79](https://github.com/luketainton/PwnedPW/pull/79) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 🎉 Merged PR [#76](https://github.com/luketainton/PwnedPW/pull/76) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 <!--END_SECTION:activity-->
 
 ---
