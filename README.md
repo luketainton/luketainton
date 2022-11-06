@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/luketainton/PwnedPW/pull/81) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-2. ❗️ Opened issue [#470](https://github.com/junaid33/opensource.builders/issues/470) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-3. 🎉 Merged PR [#80](https://github.com/luketainton/PwnedPW/pull/80) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-4. 💪 Opened PR [#469](https://github.com/junaid33/opensource.builders/pull/469) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
-5. ❗️ Closed issue [#11](https://github.com/luketainton/testing/issues/11) in [luketainton/testing](https://github.com/luketainton/testing)
+1. 🎉 Merged PR [#82](https://github.com/luketainton/PwnedPW/pull/82) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. 🎉 Merged PR [#81](https://github.com/luketainton/PwnedPW/pull/81) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+3. ❗️ Opened issue [#470](https://github.com/junaid33/opensource.builders/issues/470) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
+4. 🎉 Merged PR [#80](https://github.com/luketainton/PwnedPW/pull/80) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 💪 Opened PR [#469](https://github.com/junaid33/opensource.builders/pull/469) in [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders)
 <!--END_SECTION:activity-->
 
 ---
