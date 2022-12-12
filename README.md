@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/luketainton/hesk-docker/pull/21) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-2. 🎉 Merged PR [#93](https://github.com/luketainton/PwnedPW/pull/93) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🎉 Merged PR [#90](https://github.com/luketainton/PwnedPW/pull/90) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-4. 🎉 Merged PR [#88](https://github.com/luketainton/PwnedPW/pull/88) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🎉 Merged PR [#9](https://github.com/luketainton/template-go/pull/9) in [luketainton/template-go](https://github.com/luketainton/template-go)
+1. 🎉 Merged PR [#94](https://github.com/luketainton/PwnedPW/pull/94) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. 🎉 Merged PR [#21](https://github.com/luketainton/hesk-docker/pull/21) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+3. 🎉 Merged PR [#93](https://github.com/luketainton/PwnedPW/pull/93) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. 🎉 Merged PR [#90](https://github.com/luketainton/PwnedPW/pull/90) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 🎉 Merged PR [#88](https://github.com/luketainton/PwnedPW/pull/88) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 <!--END_SECTION:activity-->
 
 ---
