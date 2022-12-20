@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/luketainton/testing/pull/12) in [luketainton/testing](https://github.com/luketainton/testing)
-2. 🎉 Merged PR [#160](https://github.com/luketainton/FHeD/pull/160) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-3. ❗️ Opened issue [#4955](https://github.com/n8n-io/n8n/issues/4955) in [n8n-io/n8n](https://github.com/n8n-io/n8n)
-4. 🎉 Merged PR [#92](https://github.com/luketainton/PwnedPW/pull/92) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🎉 Merged PR [#95](https://github.com/luketainton/PwnedPW/pull/95) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+1. 🗣 Commented on [#13](https://github.com/luketainton/testing/issues/13) in [luketainton/testing](https://github.com/luketainton/testing)
+2. 🗣 Commented on [#13](https://github.com/luketainton/testing/issues/13) in [luketainton/testing](https://github.com/luketainton/testing)
+3. 🗣 Commented on [#13](https://github.com/luketainton/testing/issues/13) in [luketainton/testing](https://github.com/luketainton/testing)
+4. 🗣 Commented on [#13](https://github.com/luketainton/testing/issues/13) in [luketainton/testing](https://github.com/luketainton/testing)
+5. 🗣 Commented on [#13](https://github.com/luketainton/testing/issues/13) in [luketainton/testing](https://github.com/luketainton/testing)
 <!--END_SECTION:activity-->
 
 ---
