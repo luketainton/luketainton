@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/luketainton/epage/pull/19) in [luketainton/epage](https://github.com/luketainton/epage)
-2. 💪 Opened PR [#19](https://github.com/luketainton/epage/pull/19) in [luketainton/epage](https://github.com/luketainton/epage)
-3. 🎉 Merged PR [#99](https://github.com/luketainton/PwnedPW/pull/99) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-4. 🎉 Merged PR [#98](https://github.com/luketainton/PwnedPW/pull/98) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🗣 Commented on [#84](https://github.com/dominik-th/matomo-plugin-LoginOIDC/issues/84) in [dominik-th/matomo-plugin-LoginOIDC](https://github.com/dominik-th/matomo-plugin-LoginOIDC)
+1. ❗️ Opened issue [#42](https://github.com/EsperoTech/yaade/issues/42) in [EsperoTech/yaade](https://github.com/EsperoTech/yaade)
+2. 🎉 Merged PR [#19](https://github.com/luketainton/epage/pull/19) in [luketainton/epage](https://github.com/luketainton/epage)
+3. 💪 Opened PR [#19](https://github.com/luketainton/epage/pull/19) in [luketainton/epage](https://github.com/luketainton/epage)
+4. 🎉 Merged PR [#99](https://github.com/luketainton/PwnedPW/pull/99) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 🎉 Merged PR [#98](https://github.com/luketainton/PwnedPW/pull/98) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 <!--END_SECTION:activity-->
 
 ---
