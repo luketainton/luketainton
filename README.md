@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
-2. 🗣 Commented on [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
+1. 🎉 Merged PR [#100](https://github.com/luketainton/PwnedPW/pull/100) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. ❗️ Closed issue [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
 3. 🗣 Commented on [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
 4. 🗣 Commented on [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
-5. ❗️ Opened issue [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
+5. 🗣 Commented on [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
 <!--END_SECTION:activity-->
 
 ---
