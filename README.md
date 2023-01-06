@@ -35,9 +35,9 @@
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42](https://github.com/EsperoTech/yaade/issues/42) in [EsperoTech/yaade](https://github.com/EsperoTech/yaade)
-2. 🎉 Merged PR [#100](https://github.com/luketainton/PwnedPW/pull/100) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. ❗️ Closed issue [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
-4. 🗣 Commented on [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
+2. 🗣 Commented on [#42](https://github.com/EsperoTech/yaade/issues/42) in [EsperoTech/yaade](https://github.com/EsperoTech/yaade)
+3. 🎉 Merged PR [#100](https://github.com/luketainton/PwnedPW/pull/100) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. ❗️ Closed issue [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
 5. 🗣 Commented on [#18](https://github.com/luketainton/testing/issues/18) in [luketainton/testing](https://github.com/luketainton/testing)
 <!--END_SECTION:activity-->
 
