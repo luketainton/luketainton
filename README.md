@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/luketainton/pypilot/pull/29) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-2. 🎉 Merged PR [#28](https://github.com/luketainton/pypilot/pull/28) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. 💪 Opened PR [#28](https://github.com/luketainton/pypilot/pull/28) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-4. 🎉 Merged PR [#16](https://github.com/luketainton/epage/pull/16) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 🎉 Merged PR [#20](https://github.com/luketainton/epage/pull/20) in [luketainton/epage](https://github.com/luketainton/epage)
+1. 🎉 Merged PR [#30](https://github.com/luketainton/pypilot/pull/30) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🎉 Merged PR [#29](https://github.com/luketainton/pypilot/pull/29) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+3. 🎉 Merged PR [#28](https://github.com/luketainton/pypilot/pull/28) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 💪 Opened PR [#28](https://github.com/luketainton/pypilot/pull/28) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+5. 🎉 Merged PR [#16](https://github.com/luketainton/epage/pull/16) in [luketainton/epage](https://github.com/luketainton/epage)
 <!--END_SECTION:activity-->
 
 ---
