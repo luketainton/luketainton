@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/luketainton/epage/pull/23) in [luketainton/epage](https://github.com/luketainton/epage)
-2. 🎉 Merged PR [#39](https://github.com/luketainton/pypilot/pull/39) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. 🎉 Merged PR [#24](https://github.com/luketainton/pypilot/pull/24) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-4. 🎉 Merged PR [#15](https://github.com/luketainton/epage/pull/15) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 🎉 Merged PR [#78](https://github.com/luketainton/PwnedPW/pull/78) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+1. ❗️ Closed issue [#24](https://github.com/luketainton/hesk-docker/issues/24) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+2. 🗣 Commented on [#24](https://github.com/luketainton/hesk-docker/issues/24) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+3. 🎉 Merged PR [#25](https://github.com/luketainton/epage/pull/25) in [luketainton/epage](https://github.com/luketainton/epage)
+4. 🎉 Merged PR [#23](https://github.com/luketainton/epage/pull/23) in [luketainton/epage](https://github.com/luketainton/epage)
+5. 🎉 Merged PR [#39](https://github.com/luketainton/pypilot/pull/39) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
 <!--END_SECTION:activity-->
 
 ---
