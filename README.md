@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/kanboard/plugin-oauth2/issues/36) in [kanboard/plugin-oauth2](https://github.com/kanboard/plugin-oauth2)
-2. ❗️ Closed issue [#24](https://github.com/luketainton/hesk-docker/issues/24) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-3. 🗣 Commented on [#24](https://github.com/luketainton/hesk-docker/issues/24) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-4. 🎉 Merged PR [#25](https://github.com/luketainton/epage/pull/25) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 🎉 Merged PR [#23](https://github.com/luketainton/epage/pull/23) in [luketainton/epage](https://github.com/luketainton/epage)
+1. 🎉 Merged PR [#11](https://github.com/luketainton/template-go/pull/11) in [luketainton/template-go](https://github.com/luketainton/template-go)
+2. 🗣 Commented on [#36](https://github.com/kanboard/plugin-oauth2/issues/36) in [kanboard/plugin-oauth2](https://github.com/kanboard/plugin-oauth2)
+3. ❗️ Closed issue [#24](https://github.com/luketainton/hesk-docker/issues/24) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+4. 🗣 Commented on [#24](https://github.com/luketainton/hesk-docker/issues/24) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+5. 🎉 Merged PR [#25](https://github.com/luketainton/epage/pull/25) in [luketainton/epage](https://github.com/luketainton/epage)
 <!--END_SECTION:activity-->
 
 ---
