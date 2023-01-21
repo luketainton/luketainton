@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/luketainton/hesk-docker/issues/9) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-2. 🗣 Commented on [#42](https://github.com/EsperoTech/yaade/issues/42) in [EsperoTech/yaade](https://github.com/EsperoTech/yaade)
-3. ❗️ Closed issue [#42](https://github.com/EsperoTech/yaade/issues/42) in [EsperoTech/yaade](https://github.com/EsperoTech/yaade)
-4. 🎉 Merged PR [#24](https://github.com/luketainton/epage/pull/24) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 🎉 Merged PR [#11](https://github.com/luketainton/template-go/pull/11) in [luketainton/template-go](https://github.com/luketainton/template-go)
+1. 🎉 Merged PR [#40](https://github.com/luketainton/pypilot/pull/40) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🎉 Merged PR [#107](https://github.com/luketainton/PwnedPW/pull/107) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+3. 🗣 Commented on [#9](https://github.com/luketainton/hesk-docker/issues/9) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+4. 🗣 Commented on [#42](https://github.com/EsperoTech/yaade/issues/42) in [EsperoTech/yaade](https://github.com/EsperoTech/yaade)
+5. ❗️ Closed issue [#42](https://github.com/EsperoTech/yaade/issues/42) in [EsperoTech/yaade](https://github.com/EsperoTech/yaade)
 <!--END_SECTION:activity-->
 
 ---
