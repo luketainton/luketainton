@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/luketainton/gha-workflows/pull/1) in [luketainton/gha-workflows](https://github.com/luketainton/gha-workflows)
-2. 🎉 Merged PR [#54](https://github.com/luketainton/pypilot/pull/54) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. 💪 Opened PR [#54](https://github.com/luketainton/pypilot/pull/54) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-4. 🎉 Merged PR [#28](https://github.com/luketainton/epage/pull/28) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 💪 Opened PR [#28](https://github.com/luketainton/epage/pull/28) in [luketainton/epage](https://github.com/luketainton/epage)
+1. 🎉 Merged PR [#12](https://github.com/luketainton/template-go/pull/12) in [luketainton/template-go](https://github.com/luketainton/template-go)
+2. 🎉 Merged PR [#1](https://github.com/luketainton/gha-workflows/pull/1) in [luketainton/gha-workflows](https://github.com/luketainton/gha-workflows)
+3. 🎉 Merged PR [#54](https://github.com/luketainton/pypilot/pull/54) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 💪 Opened PR [#54](https://github.com/luketainton/pypilot/pull/54) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+5. 🎉 Merged PR [#28](https://github.com/luketainton/epage/pull/28) in [luketainton/epage](https://github.com/luketainton/epage)
 <!--END_SECTION:activity-->
 
 ---
