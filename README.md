@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#166](https://github.com/luketainton/FHeD/pull/166) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-2. 🎉 Merged PR [#165](https://github.com/luketainton/FHeD/pull/165) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-3. 🎉 Merged PR [#27](https://github.com/luketainton/iPilot/pull/27) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
-4. 🎉 Merged PR [#66](https://github.com/luketainton/pypilot/pull/66) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-5. 🎉 Merged PR [#164](https://github.com/luketainton/FHeD/pull/164) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+1. 🎉 Merged PR [#26](https://github.com/luketainton/iPilot/pull/26) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+2. 🎉 Merged PR [#167](https://github.com/luketainton/FHeD/pull/167) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+3. 🎉 Merged PR [#166](https://github.com/luketainton/FHeD/pull/166) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+4. 🎉 Merged PR [#165](https://github.com/luketainton/FHeD/pull/165) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+5. 🎉 Merged PR [#27](https://github.com/luketainton/iPilot/pull/27) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
 <!--END_SECTION:activity-->
 
 ---
