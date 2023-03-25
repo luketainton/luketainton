@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/luketainton/pypilot/pull/67) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-2. 🎉 Merged PR [#12](https://github.com/luketainton/luketainton.github.io/pull/12) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
-3. 🎉 Merged PR [#1](https://github.com/luketainton/homelab/pull/1) in [luketainton/homelab](https://github.com/luketainton/homelab)
-4. 🎉 Merged PR [#1](https://github.com/luketainton/mkdocs-test/pull/1) in [luketainton/mkdocs-test](https://github.com/luketainton/mkdocs-test)
-5. 🎉 Merged PR [#11](https://github.com/luketainton/luketainton.github.io/pull/11) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
+1. 🎉 Merged PR [#14](https://github.com/luketainton/template-go/pull/14) in [luketainton/template-go](https://github.com/luketainton/template-go)
+2. 🎉 Merged PR [#67](https://github.com/luketainton/pypilot/pull/67) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+3. 🎉 Merged PR [#12](https://github.com/luketainton/luketainton.github.io/pull/12) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
+4. 🎉 Merged PR [#1](https://github.com/luketainton/homelab/pull/1) in [luketainton/homelab](https://github.com/luketainton/homelab)
+5. 🎉 Merged PR [#1](https://github.com/luketainton/mkdocs-test/pull/1) in [luketainton/mkdocs-test](https://github.com/luketainton/mkdocs-test)
 <!--END_SECTION:activity-->
 
 ---
