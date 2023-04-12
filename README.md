@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/luketainton/pypilot/pull/74) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-2. 🎉 Merged PR [#14](https://github.com/luketainton/roboluke-tasks/pull/14) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-3. 💪 Opened PR [#14](https://github.com/luketainton/roboluke-tasks/pull/14) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-4. 🎉 Merged PR [#13](https://github.com/luketainton/roboluke-tasks/pull/13) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-5. 💪 Opened PR [#13](https://github.com/luketainton/roboluke-tasks/pull/13) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+1. 🎉 Merged PR [#18](https://github.com/luketainton/roboluke-tasks/pull/18) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+2. 🎉 Merged PR [#76](https://github.com/luketainton/pypilot/pull/76) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+3. 🎉 Merged PR [#75](https://github.com/luketainton/pypilot/pull/75) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 🎉 Merged PR [#17](https://github.com/luketainton/roboluke-tasks/pull/17) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+5. 🎉 Merged PR [#170](https://github.com/luketainton/FHeD/pull/170) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
 <!--END_SECTION:activity-->
 
 ---
