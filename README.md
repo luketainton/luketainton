@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#177](https://github.com/luketainton/FHeD/pull/177) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-2. 🎉 Merged PR [#42](https://github.com/luketainton/roboluke-tasks/pull/42) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-3. ❗️ Opened issue [#5718](https://github.com/goauthentik/authentik/issues/5718) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
-4. 🎉 Merged PR [#176](https://github.com/luketainton/FHeD/pull/176) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-5. 🎉 Merged PR [#96](https://github.com/luketainton/pypilot/pull/96) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+1. 🎉 Merged PR [#143](https://github.com/luketainton/PwnedPW/pull/143) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. 🎉 Merged PR [#177](https://github.com/luketainton/FHeD/pull/177) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+3. 🎉 Merged PR [#42](https://github.com/luketainton/roboluke-tasks/pull/42) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+4. ❗️ Opened issue [#5718](https://github.com/goauthentik/authentik/issues/5718) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+5. 🎉 Merged PR [#176](https://github.com/luketainton/FHeD/pull/176) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
 <!--END_SECTION:activity-->
 
 ---
