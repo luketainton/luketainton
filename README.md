@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/luketainton/pypilot/pull/98) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-2. 🎉 Merged PR [#97](https://github.com/luketainton/pypilot/pull/97) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. 🎉 Merged PR [#31](https://github.com/luketainton/hesk-docker/pull/31) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-4. 🎉 Merged PR [#43](https://github.com/luketainton/epage/pull/43) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 🎉 Merged PR [#143](https://github.com/luketainton/PwnedPW/pull/143) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+1. ❗️ Opened issue [#620](https://github.com/alexjustesen/speedtest-tracker/issues/620) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
+2. 🎉 Merged PR [#98](https://github.com/luketainton/pypilot/pull/98) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+3. 🎉 Merged PR [#97](https://github.com/luketainton/pypilot/pull/97) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 🎉 Merged PR [#31](https://github.com/luketainton/hesk-docker/pull/31) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+5. 🎉 Merged PR [#43](https://github.com/luketainton/epage/pull/43) in [luketainton/epage](https://github.com/luketainton/epage)
 <!--END_SECTION:activity-->
 
 ---
