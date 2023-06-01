@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/luketainton/gha-1ptest/pull/1) in [luketainton/gha-1ptest](https://github.com/luketainton/gha-1ptest)
-2. 🎉 Merged PR [#178](https://github.com/luketainton/FHeD/pull/178) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
-3. ❗ Opened issue [#149](https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer/issues/149) in [RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer](https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer)
-4. ❗ Opened issue [#620](https://github.com/alexjustesen/speedtest-tracker/issues/620) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
-5. 🎉 Merged PR [#98](https://github.com/luketainton/pypilot/pull/98) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+1. 🗣 Commented on [#149](https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer/issues/149) in [RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer](https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer)
+2. ❌ Closed PR [#1](https://github.com/luketainton/gha-1ptest/pull/1) in [luketainton/gha-1ptest](https://github.com/luketainton/gha-1ptest)
+3. 🎉 Merged PR [#178](https://github.com/luketainton/FHeD/pull/178) in [luketainton/FHeD](https://github.com/luketainton/FHeD)
+4. ❗ Opened issue [#149](https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer/issues/149) in [RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer](https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer)
+5. ❗ Opened issue [#620](https://github.com/alexjustesen/speedtest-tracker/issues/620) in [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker)
 <!--END_SECTION:activity-->
 
 ---
