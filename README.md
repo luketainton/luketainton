@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/luketainton/epage/pull/47) in [luketainton/epage](https://github.com/luketainton/epage)
-2. ❗ Opened issue [#436](https://github.com/CorentinTh/it-tools/issues/436) in [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-3. 🎉 Merged PR [#46](https://github.com/luketainton/epage/pull/46) in [luketainton/epage](https://github.com/luketainton/epage)
-4. 🎉 Merged PR [#101](https://github.com/luketainton/pypilot/pull/101) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-5. 🎉 Merged PR [#144](https://github.com/luketainton/PwnedPW/pull/144) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+1. 💪 Opened PR [#4954](https://github.com/wekan/wekan/pull/4954) in [wekan/wekan](https://github.com/wekan/wekan)
+2. 🎉 Merged PR [#47](https://github.com/luketainton/epage/pull/47) in [luketainton/epage](https://github.com/luketainton/epage)
+3. ❗ Opened issue [#436](https://github.com/CorentinTh/it-tools/issues/436) in [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+4. 🎉 Merged PR [#46](https://github.com/luketainton/epage/pull/46) in [luketainton/epage](https://github.com/luketainton/epage)
+5. 🎉 Merged PR [#101](https://github.com/luketainton/pypilot/pull/101) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
 <!--END_SECTION:activity-->
 
 ---
