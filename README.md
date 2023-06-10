@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4954](https://github.com/wekan/wekan/issues/4954) in [wekan/wekan](https://github.com/wekan/wekan)
+1. 🗣 Commented on [#436](https://github.com/CorentinTh/it-tools/issues/436) in [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 2. 🗣 Commented on [#4954](https://github.com/wekan/wekan/issues/4954) in [wekan/wekan](https://github.com/wekan/wekan)
 3. 🗣 Commented on [#4954](https://github.com/wekan/wekan/issues/4954) in [wekan/wekan](https://github.com/wekan/wekan)
-4. 🎉 Merged PR [#46](https://github.com/luketainton/roboluke-tasks/pull/46) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-5. 🎉 Merged PR [#45](https://github.com/luketainton/roboluke-tasks/pull/45) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+4. 🗣 Commented on [#4954](https://github.com/wekan/wekan/issues/4954) in [wekan/wekan](https://github.com/wekan/wekan)
+5. 🎉 Merged PR [#46](https://github.com/luketainton/roboluke-tasks/pull/46) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
 <!--END_SECTION:activity-->
 
 ---
