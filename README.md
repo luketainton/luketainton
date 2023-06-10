@@ -34,10 +34,10 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
-2. 💪 Opened PR [#4958](https://github.com/wekan/wekan/pull/4958) in [wekan/wekan](https://github.com/wekan/wekan)
-3. 🗣 Commented on [#436](https://github.com/CorentinTh/it-tools/issues/436) in [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-4. 🗣 Commented on [#4954](https://github.com/wekan/wekan/issues/4954) in [wekan/wekan](https://github.com/wekan/wekan)
+1. ❗ Opened issue [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
+2. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
+3. 💪 Opened PR [#4958](https://github.com/wekan/wekan/pull/4958) in [wekan/wekan](https://github.com/wekan/wekan)
+4. 🗣 Commented on [#436](https://github.com/CorentinTh/it-tools/issues/436) in [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 5. 🗣 Commented on [#4954](https://github.com/wekan/wekan/issues/4954) in [wekan/wekan](https://github.com/wekan/wekan)
 <!--END_SECTION:activity-->
 
