@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
-2. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
-3. ❗ Opened issue [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
+1. 🔒 Closed issue [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
+2. 🗣 Commented on [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
+3. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
 4. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
-5. 💪 Opened PR [#4958](https://github.com/wekan/wekan/pull/4958) in [wekan/wekan](https://github.com/wekan/wekan)
+5. ❗ Opened issue [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
 <!--END_SECTION:activity-->
 
 ---
