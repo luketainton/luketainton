@@ -34,10 +34,10 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
-2. 🔒 Closed issue [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
-3. 🗣 Commented on [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
-4. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
+1. 🎉 Merged PR [#47](https://github.com/luketainton/roboluke-tasks/pull/47) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+2. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
+3. 🔒 Closed issue [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
+4. 🗣 Commented on [#19](https://github.com/luketainton/testing/issues/19) in [luketainton/testing](https://github.com/luketainton/testing)
 5. 🗣 Commented on [#4958](https://github.com/wekan/wekan/issues/4958) in [wekan/wekan](https://github.com/wekan/wekan)
 <!--END_SECTION:activity-->
 
