@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5718](https://github.com/goauthentik/authentik/issues/5718) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
-2. 🎉 Merged PR [#150](https://github.com/luketainton/PwnedPW/pull/150) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🎉 Merged PR [#51](https://github.com/luketainton/roboluke-tasks/pull/51) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-4. 🎉 Merged PR [#105](https://github.com/luketainton/pypilot/pull/105) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-5. 🎉 Merged PR [#149](https://github.com/luketainton/PwnedPW/pull/149) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+1. 🎉 Merged PR [#107](https://github.com/luketainton/pypilot/pull/107) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🔒 Closed issue [#5718](https://github.com/goauthentik/authentik/issues/5718) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
+3. 🎉 Merged PR [#150](https://github.com/luketainton/PwnedPW/pull/150) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. 🎉 Merged PR [#51](https://github.com/luketainton/roboluke-tasks/pull/51) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+5. 🎉 Merged PR [#105](https://github.com/luketainton/pypilot/pull/105) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
 <!--END_SECTION:activity-->
 
 ---
