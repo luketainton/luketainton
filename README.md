@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/luketainton/roboluke-tasks/pull/111) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-2. 💪 Opened PR [#111](https://github.com/luketainton/roboluke-tasks/pull/111) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-3. 🎉 Merged PR [#110](https://github.com/luketainton/roboluke-tasks/pull/110) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-4. 🚀 Published release [v1.0.0](https://github.com/luketainton/roboluke-tasks/releases/tag/v1.0.0) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-5. 💪 Opened PR [#110](https://github.com/luketainton/roboluke-tasks/pull/110) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+1. ❌ Closed PR [#112](https://github.com/luketainton/roboluke-tasks/pull/112) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+2. 💪 Opened PR [#112](https://github.com/luketainton/roboluke-tasks/pull/112) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+3. 🎉 Merged PR [#111](https://github.com/luketainton/roboluke-tasks/pull/111) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+4. 💪 Opened PR [#111](https://github.com/luketainton/roboluke-tasks/pull/111) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+5. 🎉 Merged PR [#110](https://github.com/luketainton/roboluke-tasks/pull/110) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
 <!--END_SECTION:activity-->
 
 ---
