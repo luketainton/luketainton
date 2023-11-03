@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/luketainton/webexmemebot/pull/91) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-2. 🎉 Merged PR [#122](https://github.com/luketainton/roboluke-tasks/pull/122) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-3. 💪 Opened PR [#122](https://github.com/luketainton/roboluke-tasks/pull/122) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-4. 🎉 Merged PR [#183](https://github.com/luketainton/PwnedPW/pull/183) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-5. 🎉 Merged PR [#121](https://github.com/luketainton/roboluke-tasks/pull/121) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+1. 🔓 Reopened issue [#3](https://github.com/luketainton/roboluke-tasks/issues/3) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+2. 🎉 Merged PR [#91](https://github.com/luketainton/webexmemebot/pull/91) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+3. 🎉 Merged PR [#122](https://github.com/luketainton/roboluke-tasks/pull/122) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+4. 💪 Opened PR [#122](https://github.com/luketainton/roboluke-tasks/pull/122) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+5. 🎉 Merged PR [#183](https://github.com/luketainton/PwnedPW/pull/183) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 <!--END_SECTION:activity-->
 
 ---
