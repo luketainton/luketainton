@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/luketainton/webexmemebot/pull/108) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-2. 🎉 Merged PR [#152](https://github.com/luketainton/pypilot/pull/152) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. 🎉 Merged PR [#106](https://github.com/luketainton/webexmemebot/pull/106) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-4. 🎉 Merged PR [#24](https://github.com/luketainton/template-go/pull/24) in [luketainton/template-go](https://github.com/luketainton/template-go)
-5. 🎉 Merged PR [#32](https://github.com/luketainton/iPilot/pull/32) in [luketainton/iPilot](https://github.com/luketainton/iPilot)
+1. 🎉 Merged PR [#110](https://github.com/luketainton/webexmemebot/pull/110) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+2. 🎉 Merged PR [#108](https://github.com/luketainton/webexmemebot/pull/108) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+3. 🎉 Merged PR [#152](https://github.com/luketainton/pypilot/pull/152) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 🎉 Merged PR [#106](https://github.com/luketainton/webexmemebot/pull/106) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+5. 🎉 Merged PR [#24](https://github.com/luketainton/template-go/pull/24) in [luketainton/template-go](https://github.com/luketainton/template-go)
 <!--END_SECTION:activity-->
 
 ---
