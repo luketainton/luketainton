@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/luketainton/epage/pull/78) in [luketainton/epage](https://github.com/luketainton/epage)
-2. 🎉 Merged PR [#42](https://github.com/luketainton/hesk-docker/pull/42) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
-3. 🎉 Merged PR [#77](https://github.com/luketainton/epage/pull/77) in [luketainton/epage](https://github.com/luketainton/epage)
-4. 🎉 Merged PR [#76](https://github.com/luketainton/epage/pull/76) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 🎉 Merged PR [#26](https://github.com/luketainton/template-go/pull/26) in [luketainton/template-go](https://github.com/luketainton/template-go)
+1. 🎉 Merged PR [#79](https://github.com/luketainton/epage/pull/79) in [luketainton/epage](https://github.com/luketainton/epage)
+2. 🎉 Merged PR [#78](https://github.com/luketainton/epage/pull/78) in [luketainton/epage](https://github.com/luketainton/epage)
+3. 🎉 Merged PR [#42](https://github.com/luketainton/hesk-docker/pull/42) in [luketainton/hesk-docker](https://github.com/luketainton/hesk-docker)
+4. 🎉 Merged PR [#77](https://github.com/luketainton/epage/pull/77) in [luketainton/epage](https://github.com/luketainton/epage)
+5. 🎉 Merged PR [#76](https://github.com/luketainton/epage/pull/76) in [luketainton/epage](https://github.com/luketainton/epage)
 <!--END_SECTION:activity-->
 
 ---
