@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/luketainton/instant-msg-api/pull/9) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-2. 🎉 Merged PR [#4](https://github.com/luketainton/instant-msg-api/pull/4) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-3. 🗣 Commented on [#3](https://github.com/luketainton/instant-msg-api/pull/3#issuecomment-1908953406) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-4. 🗣 Commented on [#4](https://github.com/luketainton/instant-msg-api/pull/4#issuecomment-1908953226) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-5. 🗣 Commented on [#9](https://github.com/luketainton/instant-msg-api/pull/9#issuecomment-1908952689) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+1. 🎉 Merged PR [#27](https://github.com/luketainton/template-go/pull/27) in [luketainton/template-go](https://github.com/luketainton/template-go)
+2. 🎉 Merged PR [#9](https://github.com/luketainton/instant-msg-api/pull/9) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+3. 🎉 Merged PR [#4](https://github.com/luketainton/instant-msg-api/pull/4) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+4. 🗣 Commented on [#3](https://github.com/luketainton/instant-msg-api/pull/3#issuecomment-1908953406) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+5. 🗣 Commented on [#4](https://github.com/luketainton/instant-msg-api/pull/4#issuecomment-1908953226) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 <!--END_SECTION:activity-->
 
 ---
