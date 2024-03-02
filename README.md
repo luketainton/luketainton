@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#175](https://github.com/luketainton/webexmemebot/pull/175) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-2. 🎉 Merged PR [#174](https://github.com/luketainton/webexmemebot/pull/174) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-3. 🎉 Merged PR [#170](https://github.com/luketainton/roboluke-tasks/pull/170) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-4. 🎉 Merged PR [#173](https://github.com/luketainton/webexmemebot/pull/173) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-5. 🎉 Merged PR [#38](https://github.com/luketainton/instant-msg-api/pull/38) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+1. 💪 Opened PR [#171](https://github.com/luketainton/roboluke-tasks/pull/171) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+2. 🎉 Merged PR [#175](https://github.com/luketainton/webexmemebot/pull/175) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+3. 🎉 Merged PR [#174](https://github.com/luketainton/webexmemebot/pull/174) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+4. 🎉 Merged PR [#170](https://github.com/luketainton/roboluke-tasks/pull/170) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+5. 🎉 Merged PR [#173](https://github.com/luketainton/webexmemebot/pull/173) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
 <!--END_SECTION:activity-->
 
 ---
