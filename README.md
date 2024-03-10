@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#174](https://github.com/luketainton/roboluke-tasks/pull/174) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-2. 🎉 Merged PR [#213](https://github.com/luketainton/PwnedPW/pull/213) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🎉 Merged PR [#173](https://github.com/luketainton/roboluke-tasks/pull/173) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-4. 💪 Opened PR [#173](https://github.com/luketainton/roboluke-tasks/pull/173) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-5. 🎉 Merged PR [#172](https://github.com/luketainton/roboluke-tasks/pull/172) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+1. ❌ Closed PR [#20](https://github.com/luketainton/instant-msg-api/pull/20) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+2. ❌ Closed PR [#21](https://github.com/luketainton/instant-msg-api/pull/21) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+3. ❌ Reopened PR [#21](https://github.com/luketainton/instant-msg-api/pull/21) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+4. ❌ Closed PR [#21](https://github.com/luketainton/instant-msg-api/pull/21) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+5. 🎉 Merged PR [#169](https://github.com/luketainton/pypilot/pull/169) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
 <!--END_SECTION:activity-->
 
 ---
