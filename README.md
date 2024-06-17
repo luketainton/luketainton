@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/luketainton/gha-workflows/pull/13) in [luketainton/gha-workflows](https://github.com/luketainton/gha-workflows)
-2. 🎉 Merged PR [#266](https://github.com/luketainton/webexmemebot/pull/266) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-3. 🎉 Merged PR [#197](https://github.com/luketainton/pypilot/pull/197) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-4. 🎉 Merged PR [#265](https://github.com/luketainton/webexmemebot/pull/265) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-5. 🎉 Merged PR [#224](https://github.com/luketainton/roboluke-tasks/pull/224) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+1. 💪 Opened PR [#1](https://github.com/luketainton/docker-dnsmasq/pull/1) in [luketainton/docker-dnsmasq](https://github.com/luketainton/docker-dnsmasq)
+2. 🎉 Merged PR [#13](https://github.com/luketainton/gha-workflows/pull/13) in [luketainton/gha-workflows](https://github.com/luketainton/gha-workflows)
+3. 🎉 Merged PR [#266](https://github.com/luketainton/webexmemebot/pull/266) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+4. 🎉 Merged PR [#197](https://github.com/luketainton/pypilot/pull/197) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+5. 🎉 Merged PR [#265](https://github.com/luketainton/webexmemebot/pull/265) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
 <!--END_SECTION:activity-->
 
 ---
