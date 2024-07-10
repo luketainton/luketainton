@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#243](https://github.com/luketainton/roboluke-tasks/pull/243) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-2. 💪 Opened PR [#4](https://github.com/luketainton/6to4_converter/pull/4) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
-3. 💪 Opened PR [#296](https://github.com/luketainton/webexmemebot/pull/296) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-4. 💪 Opened PR [#97](https://github.com/luketainton/epage/pull/97) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 💪 Opened PR [#221](https://github.com/luketainton/pypilot/pull/221) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+1. 💪 Opened PR [#5](https://github.com/luketainton/6to4_converter/pull/5) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
+2. 💪 Opened PR [#300](https://github.com/luketainton/webexmemebot/pull/300) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+3. 🎉 Merged PR [#4](https://github.com/luketainton/6to4_converter/pull/4) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
+4. 💪 Opened PR [#98](https://github.com/luketainton/epage/pull/98) in [luketainton/epage](https://github.com/luketainton/epage)
+5. 🎉 Merged PR [#296](https://github.com/luketainton/webexmemebot/pull/296) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
 <!--END_SECTION:activity-->
 
 ---
