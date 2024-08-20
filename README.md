@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/luketainton/luketainton.github.io/issues/7) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
-2. 🎉 Merged PR [#336](https://github.com/luketainton/webexmemebot/pull/336) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-3. 🎉 Merged PR [#94](https://github.com/luketainton/instant-msg-api/pull/94) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-4. 🎉 Merged PR [#242](https://github.com/luketainton/pypilot/pull/242) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-5. 🎉 Merged PR [#337](https://github.com/luketainton/webexmemebot/pull/337) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+1. 🎉 Merged PR [#338](https://github.com/luketainton/webexmemebot/pull/338) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+2. ❌ Closed PR [#133](https://github.com/luketainton/webexmemebot/pull/133) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+3. 🔒 Closed issue [#7](https://github.com/luketainton/luketainton.github.io/issues/7) in [luketainton/luketainton.github.io](https://github.com/luketainton/luketainton.github.io)
+4. 🎉 Merged PR [#336](https://github.com/luketainton/webexmemebot/pull/336) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+5. 🎉 Merged PR [#94](https://github.com/luketainton/instant-msg-api/pull/94) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 <!--END_SECTION:activity-->
 
 ---
