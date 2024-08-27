@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#245](https://github.com/luketainton/pypilot/pull/245) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-2. 🎉 Merged PR [#98](https://github.com/luketainton/instant-msg-api/pull/98) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-3. 🎉 Merged PR [#246](https://github.com/luketainton/pypilot/pull/246) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-4. 🎉 Merged PR [#273](https://github.com/luketainton/roboluke-tasks/pull/273) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-5. 🎉 Merged PR [#343](https://github.com/luketainton/webexmemebot/pull/343) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+1. 🗣 Commented on [#238](https://github.com/luketainton/roboluke-tasks/pull/238#issuecomment-2313630655) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+2. 🗣 Commented on [#238](https://github.com/luketainton/roboluke-tasks/pull/238#issuecomment-2313630515) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+3. ❌ Closed PR [#222](https://github.com/luketainton/pypilot/pull/222) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 🗣 Commented on [#222](https://github.com/luketainton/pypilot/pull/222#issuecomment-2313627397) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+5. 🗣 Commented on [#96](https://github.com/luketainton/instant-msg-api/pull/96#issuecomment-2313623945) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 <!--END_SECTION:activity-->
 
 ---
