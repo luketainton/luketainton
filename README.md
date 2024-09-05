@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#247](https://github.com/luketainton/PwnedPW/pull/247) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-2. 🎉 Merged PR [#348](https://github.com/luketainton/webexmemebot/pull/348) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-3. 🎉 Merged PR [#102](https://github.com/luketainton/instant-msg-api/pull/102) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-4. 🎉 Merged PR [#248](https://github.com/luketainton/pypilot/pull/248) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-5. 🗣 Commented on [#274](https://github.com/luketainton/roboluke-tasks/pull/274#issuecomment-2324626330) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+1. 🎉 Merged PR [#249](https://github.com/luketainton/pypilot/pull/249) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🎉 Merged PR [#349](https://github.com/luketainton/webexmemebot/pull/349) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+3. 🎉 Merged PR [#247](https://github.com/luketainton/PwnedPW/pull/247) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+4. 🎉 Merged PR [#348](https://github.com/luketainton/webexmemebot/pull/348) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+5. 🎉 Merged PR [#102](https://github.com/luketainton/instant-msg-api/pull/102) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 <!--END_SECTION:activity-->
 
 ---
