@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/luketainton/instant-msg-api/pull/110) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-2. 🎉 Merged PR [#249](https://github.com/luketainton/PwnedPW/pull/249) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🎉 Merged PR [#109](https://github.com/luketainton/instant-msg-api/pull/109) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-4. 🎉 Merged PR [#102](https://github.com/luketainton/epage/pull/102) in [luketainton/epage](https://github.com/luketainton/epage)
-5. 🎉 Merged PR [#253](https://github.com/luketainton/pypilot/pull/253) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+1. 🎉 Merged PR [#254](https://github.com/luketainton/pypilot/pull/254) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🎉 Merged PR [#103](https://github.com/luketainton/epage/pull/103) in [luketainton/epage](https://github.com/luketainton/epage)
+3. 🎉 Merged PR [#110](https://github.com/luketainton/instant-msg-api/pull/110) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+4. 🎉 Merged PR [#249](https://github.com/luketainton/PwnedPW/pull/249) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+5. 🎉 Merged PR [#109](https://github.com/luketainton/instant-msg-api/pull/109) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 <!--END_SECTION:activity-->
 
 ---
