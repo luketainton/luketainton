@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#140](https://github.com/luketainton/instant-msg-api/pull/140) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-2. 🎉 Merged PR [#312](https://github.com/luketainton/roboluke-tasks/pull/312) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-3. 🎉 Merged PR [#407](https://github.com/luketainton/webexmemebot/pull/407) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-4. 🎉 Merged PR [#406](https://github.com/luketainton/webexmemebot/pull/406) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-5. 🎉 Merged PR [#2](https://github.com/luketainton/luketainton/pull/2) in [luketainton/luketainton](https://github.com/luketainton/luketainton)
+1. 🎉 Merged PR [#143](https://github.com/luketainton/instant-msg-api/pull/143) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+2. 🎉 Merged PR [#142](https://github.com/luketainton/instant-msg-api/pull/142) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+3. 🎉 Merged PR [#140](https://github.com/luketainton/instant-msg-api/pull/140) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+4. 🎉 Merged PR [#312](https://github.com/luketainton/roboluke-tasks/pull/312) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+5. 🎉 Merged PR [#407](https://github.com/luketainton/webexmemebot/pull/407) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
 <!--END_SECTION:activity-->
 
 ---
