@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#265](https://github.com/luketainton/PwnedPW/pull/265) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-2. 🎉 Merged PR [#280](https://github.com/luketainton/pypilot/pull/280) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. 🎉 Merged PR [#424](https://github.com/luketainton/webexmemebot/pull/424) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
-4. 🎉 Merged PR [#326](https://github.com/luketainton/roboluke-tasks/pull/326) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-5. 🎉 Merged PR [#2](https://github.com/luketainton/docker-dnsmasq/pull/2) in [luketainton/docker-dnsmasq](https://github.com/luketainton/docker-dnsmasq)
+1. 💪 Opened PR [#4](https://github.com/luketainton/docker-radius/pull/4) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
+2. 🎉 Merged PR [#265](https://github.com/luketainton/PwnedPW/pull/265) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+3. 🎉 Merged PR [#280](https://github.com/luketainton/pypilot/pull/280) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 🎉 Merged PR [#424](https://github.com/luketainton/webexmemebot/pull/424) in [luketainton/webexmemebot](https://github.com/luketainton/webexmemebot)
+5. 🎉 Merged PR [#326](https://github.com/luketainton/roboluke-tasks/pull/326) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
 <!--END_SECTION:activity-->
 
 ---
