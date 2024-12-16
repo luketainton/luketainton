@@ -34,11 +34,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#281](https://github.com/luketainton/pypilot/pull/281) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-2. 💪 Opened PR [#281](https://github.com/luketainton/pypilot/pull/281) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. ❌ Closed PR [#1](https://github.com/luketainton/docker-radius/pull/1) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
-4. ❌ Closed PR [#2](https://github.com/luketainton/docker-radius/pull/2) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
-5. 🎉 Merged PR [#4](https://github.com/luketainton/docker-radius/pull/4) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
+1. 🎉 Merged PR [#282](https://github.com/luketainton/pypilot/pull/282) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🎉 Merged PR [#118](https://github.com/luketainton/epage/pull/118) in [luketainton/epage](https://github.com/luketainton/epage)
+3. ❌ Closed PR [#281](https://github.com/luketainton/pypilot/pull/281) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 💪 Opened PR [#281](https://github.com/luketainton/pypilot/pull/281) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+5. ❌ Closed PR [#1](https://github.com/luketainton/docker-radius/pull/1) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
 <!--END_SECTION:activity-->
 
 ---
