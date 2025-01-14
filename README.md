@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#296](https://github.com/luketainton/pypilot/pull/296) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-2. 🗣 Commented on [#296](https://github.com/luketainton/pypilot/pull/296#issuecomment-2586006210) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
-3. 🎉 Merged PR [#161](https://github.com/luketainton/instant-msg-api/pull/161) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-4. 🗣 Commented on [#161](https://github.com/luketainton/instant-msg-api/pull/161#issuecomment-2581413749) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-5. 🗣 Commented on [#98](https://github.com/stonith404/pocket-id/issues/98#issuecomment-2571792892) in [stonith404/pocket-id](https://github.com/stonith404/pocket-id)
+1. 🗣 Commented on [#297](https://github.com/luketainton/pypilot/pull/297#issuecomment-2588513248) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. 🎉 Merged PR [#296](https://github.com/luketainton/pypilot/pull/296) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+3. 🗣 Commented on [#296](https://github.com/luketainton/pypilot/pull/296#issuecomment-2586006210) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+4. 🎉 Merged PR [#161](https://github.com/luketainton/instant-msg-api/pull/161) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+5. 🗣 Commented on [#161](https://github.com/luketainton/instant-msg-api/pull/161#issuecomment-2581413749) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 <!--END_SECTION:activity-->
 
 ---
