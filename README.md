@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/luketainton/epage/pull/123) in [luketainton/epage](https://github.com/luketainton/epage)
-2. 🗣 Commented on [#123](https://github.com/luketainton/epage/pull/123#issuecomment-2629675272) in [luketainton/epage](https://github.com/luketainton/epage)
-3. 🗣 Commented on [#98](https://github.com/stonith404/pocket-id/issues/98#issuecomment-2629092279) in [stonith404/pocket-id](https://github.com/stonith404/pocket-id)
-4. 🗣 Commented on [#98](https://github.com/stonith404/pocket-id/issues/98#issuecomment-2629018189) in [stonith404/pocket-id](https://github.com/stonith404/pocket-id)
-5. 🗣 Commented on [#98](https://github.com/stonith404/pocket-id/issues/98#issuecomment-2628935778) in [stonith404/pocket-id](https://github.com/stonith404/pocket-id)
+1. ❌ Closed PR [#166](https://github.com/luketainton/instant-msg-api/pull/166) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+2. ❌ Closed PR [#165](https://github.com/luketainton/instant-msg-api/pull/165) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+3. 🎉 Merged PR [#123](https://github.com/luketainton/epage/pull/123) in [luketainton/epage](https://github.com/luketainton/epage)
+4. 🗣 Commented on [#123](https://github.com/luketainton/epage/pull/123#issuecomment-2629675272) in [luketainton/epage](https://github.com/luketainton/epage)
+5. 🗣 Commented on [#98](https://github.com/stonith404/pocket-id/issues/98#issuecomment-2629092279) in [stonith404/pocket-id](https://github.com/stonith404/pocket-id)
 <!--END_SECTION:activity-->
 
 ---
