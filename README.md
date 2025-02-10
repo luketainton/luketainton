@@ -32,8 +32,8 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/pierrickdelrieu/scp-action/pull/3) in [pierrickdelrieu/scp-action](https://github.com/pierrickdelrieu/scp-action)
-2. ❌ Closed PR [#166](https://github.com/luketainton/instant-msg-api/pull/166) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+1. 🗣 Commented on [#273](https://github.com/luketainton/PwnedPW/pull/273#issuecomment-2647311041) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+2. 💪 Opened PR [#3](https://github.com/pierrickdelrieu/scp-action/pull/3) in [pierrickdelrieu/scp-action](https://github.com/pierrickdelrieu/scp-action)
 3. ❌ Closed PR [#165](https://github.com/luketainton/instant-msg-api/pull/165) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 4. 🎉 Merged PR [#123](https://github.com/luketainton/epage/pull/123) in [luketainton/epage](https://github.com/luketainton/epage)
 5. 🗣 Commented on [#123](https://github.com/luketainton/epage/pull/123#issuecomment-2629675272) in [luketainton/epage](https://github.com/luketainton/epage)
