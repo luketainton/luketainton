@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#169](https://github.com/luketainton/instant-msg-api/pull/169) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-2. 🗣 Commented on [#169](https://github.com/luketainton/instant-msg-api/pull/169#issuecomment-2689232477) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-3. 💪 Opened PR [#5](https://github.com/luketainton/docker-radius/pull/5) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
-4. 🗣 Commented on [#12763](https://github.com/simple-icons/simple-icons/issues/12763#issuecomment-2660966058) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🔒 Closed issue [#12763](https://github.com/simple-icons/simple-icons/issues/12763) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#170](https://github.com/luketainton/instant-msg-api/pull/170#issuecomment-2691662534) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+2. ❌ Closed PR [#169](https://github.com/luketainton/instant-msg-api/pull/169) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+3. 🗣 Commented on [#169](https://github.com/luketainton/instant-msg-api/pull/169#issuecomment-2689232477) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+4. 💪 Opened PR [#5](https://github.com/luketainton/docker-radius/pull/5) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
+5. 🗣 Commented on [#12763](https://github.com/simple-icons/simple-icons/issues/12763#issuecomment-2660966058) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ---
