@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/luketainton/instant-msg-api/pull/177#issuecomment-2711980200) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-2. ❌ Closed PR [#176](https://github.com/luketainton/instant-msg-api/pull/176) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-3. 🗣 Commented on [#176](https://github.com/luketainton/instant-msg-api/pull/176#issuecomment-2707618304) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-4. ❌ Closed PR [#175](https://github.com/luketainton/instant-msg-api/pull/175) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
-5. 🗣 Commented on [#175](https://github.com/luketainton/instant-msg-api/pull/175#issuecomment-2705108303) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+1. ❌ Closed PR [#177](https://github.com/luketainton/instant-msg-api/pull/177) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+2. 🗣 Commented on [#177](https://github.com/luketainton/instant-msg-api/pull/177#issuecomment-2711980200) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+3. ❌ Closed PR [#176](https://github.com/luketainton/instant-msg-api/pull/176) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+4. 🗣 Commented on [#176](https://github.com/luketainton/instant-msg-api/pull/176#issuecomment-2707618304) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+5. ❌ Closed PR [#175](https://github.com/luketainton/instant-msg-api/pull/175) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 <!--END_SECTION:activity-->
 
 ---
