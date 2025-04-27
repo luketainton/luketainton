@@ -32,8 +32,8 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/luketainton/epage/pull/126#issuecomment-2795556431) in [luketainton/epage](https://github.com/luketainton/epage)
-2. ❌ Closed PR [#181](https://github.com/luketainton/instant-msg-api/pull/181) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+1. ❗ Opened issue [#335](https://github.com/spliit-app/spliit/issues/335) in [spliit-app/spliit](https://github.com/spliit-app/spliit)
+2. 🗣 Commented on [#126](https://github.com/luketainton/epage/pull/126#issuecomment-2795556431) in [luketainton/epage](https://github.com/luketainton/epage)
 3. 🗣 Commented on [#181](https://github.com/luketainton/instant-msg-api/pull/181#issuecomment-2725907546) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 4. ❌ Closed PR [#180](https://github.com/luketainton/instant-msg-api/pull/180) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 5. ❌ Closed PR [#179](https://github.com/luketainton/instant-msg-api/pull/179) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
