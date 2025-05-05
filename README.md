@@ -32,10 +32,10 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/luketainton/epage/pull/127#issuecomment-2833711466) in [luketainton/epage](https://github.com/luketainton/epage)
-2. ❗ Opened issue [#335](https://github.com/spliit-app/spliit/issues/335) in [spliit-app/spliit](https://github.com/spliit-app/spliit)
-3. 🗣 Commented on [#126](https://github.com/luketainton/epage/pull/126#issuecomment-2795556431) in [luketainton/epage](https://github.com/luketainton/epage)
-4. ❌ Closed PR [#180](https://github.com/luketainton/instant-msg-api/pull/180) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
+1. 🗣 Commented on [#128](https://github.com/luketainton/epage/pull/128#issuecomment-2849614295) in [luketainton/epage](https://github.com/luketainton/epage)
+2. 🗣 Commented on [#127](https://github.com/luketainton/epage/pull/127#issuecomment-2833711466) in [luketainton/epage](https://github.com/luketainton/epage)
+3. ❗ Opened issue [#335](https://github.com/spliit-app/spliit/issues/335) in [spliit-app/spliit](https://github.com/spliit-app/spliit)
+4. 🗣 Commented on [#126](https://github.com/luketainton/epage/pull/126#issuecomment-2795556431) in [luketainton/epage](https://github.com/luketainton/epage)
 5. ❌ Closed PR [#179](https://github.com/luketainton/instant-msg-api/pull/179) in [luketainton/instant-msg-api](https://github.com/luketainton/instant-msg-api)
 <!--END_SECTION:activity-->
 
