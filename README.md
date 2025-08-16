@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/stan-smith/FossFLOW/pull/53#issuecomment-3144269610) in [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
-2. ❌ Closed PR [#1](https://github.com/luketainton/ai-test/pull/1) in [luketainton/ai-test](https://github.com/luketainton/ai-test)
-3. 💪 Opened PR [#1](https://github.com/luketainton/ai-test/pull/1) in [luketainton/ai-test](https://github.com/luketainton/ai-test)
-4. 💪 Opened PR [#7](https://github.com/luketainton/docker-radius/pull/7) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
-5. 🗣 Commented on [#132](https://github.com/luketainton/epage/pull/132#issuecomment-3064414667) in [luketainton/epage](https://github.com/luketainton/epage)
+1. ❌ Closed PR [#20](https://github.com/luketainton/gha-workflows/pull/20) in [luketainton/gha-workflows](https://github.com/luketainton/gha-workflows)
+2. ❌ Closed PR [#19](https://github.com/luketainton/gha-workflows/pull/19) in [luketainton/gha-workflows](https://github.com/luketainton/gha-workflows)
+3. 🗣 Commented on [#53](https://github.com/stan-smith/FossFLOW/pull/53#issuecomment-3144269610) in [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
+4. ❌ Closed PR [#1](https://github.com/luketainton/ai-test/pull/1) in [luketainton/ai-test](https://github.com/luketainton/ai-test)
+5. 💪 Opened PR [#1](https://github.com/luketainton/ai-test/pull/1) in [luketainton/ai-test](https://github.com/luketainton/ai-test)
 <!--END_SECTION:activity-->
 
 ---
