@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#873](https://github.com/pocket-id/pocket-id/issues/873#issuecomment-3218028472) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-2. 🔒 Closed issue [#873](https://github.com/pocket-id/pocket-id/issues/873) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-3. ❗ Opened issue [#873](https://github.com/pocket-id/pocket-id/issues/873) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-4. ❌ Closed PR [#20](https://github.com/luketainton/gha-workflows/pull/20) in [luketainton/gha-workflows](https://github.com/luketainton/gha-workflows)
-5. ❌ Closed PR [#19](https://github.com/luketainton/gha-workflows/pull/19) in [luketainton/gha-workflows](https://github.com/luketainton/gha-workflows)
+1. 🚀 Published release [v4.0.0.0](https://github.com/luketainton/jellyfin-plugin-sso/releases/tag/v4.0.0.0) in [luketainton/jellyfin-plugin-sso](https://github.com/luketainton/jellyfin-plugin-sso)
+2. 🚀 Published release [v4.0.0.0](https://github.com/luketainton/jellyfin-plugin-sso/releases/tag/v4.0.0.0) in [luketainton/jellyfin-plugin-sso](https://github.com/luketainton/jellyfin-plugin-sso)
+3. 🚀 Published release [v4.0.0.0](https://github.com/luketainton/jellyfin-plugin-sso/releases/tag/v4.0.0.0) in [luketainton/jellyfin-plugin-sso](https://github.com/luketainton/jellyfin-plugin-sso)
+4. 🗣 Commented on [#873](https://github.com/pocket-id/pocket-id/issues/873#issuecomment-3218028472) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
+5. 🔒 Closed issue [#873](https://github.com/pocket-id/pocket-id/issues/873) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
 <!--END_SECTION:activity-->
 
 ---
