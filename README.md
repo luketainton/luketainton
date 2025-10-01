@@ -32,7 +32,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.0.0.0](https://github.com/luketainton/jellyfin-plugin-sso/releases/tag/v4.0.0.0) in [luketainton/jellyfin-plugin-sso](https://github.com/luketainton/jellyfin-plugin-sso)
+1. ❌ Closed PR [#274](https://github.com/luketainton/PwnedPW/pull/274) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 2. 🚀 Published release [v4.0.0.0](https://github.com/luketainton/jellyfin-plugin-sso/releases/tag/v4.0.0.0) in [luketainton/jellyfin-plugin-sso](https://github.com/luketainton/jellyfin-plugin-sso)
 3. 🚀 Published release [v4.0.0.0](https://github.com/luketainton/jellyfin-plugin-sso/releases/tag/v4.0.0.0) in [luketainton/jellyfin-plugin-sso](https://github.com/luketainton/jellyfin-plugin-sso)
 4. 🗣 Commented on [#873](https://github.com/pocket-id/pocket-id/issues/873#issuecomment-3218028472) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
