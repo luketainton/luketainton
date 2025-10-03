@@ -32,9 +32,9 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#335](https://github.com/luketainton/roboluke-tasks/pull/335#issuecomment-3362502527) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-2. ❌ Closed PR [#274](https://github.com/luketainton/PwnedPW/pull/274) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
-3. 🚀 Published release [v4.0.0.0](https://github.com/luketainton/jellyfin-plugin-sso/releases/tag/v4.0.0.0) in [luketainton/jellyfin-plugin-sso](https://github.com/luketainton/jellyfin-plugin-sso)
+1. ❌ Closed PR [#335](https://github.com/luketainton/roboluke-tasks/pull/335) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+2. 🗣 Commented on [#335](https://github.com/luketainton/roboluke-tasks/pull/335#issuecomment-3362502527) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+3. ❌ Closed PR [#274](https://github.com/luketainton/PwnedPW/pull/274) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
 4. 🗣 Commented on [#873](https://github.com/pocket-id/pocket-id/issues/873#issuecomment-3218028472) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
 5. 🔒 Closed issue [#873](https://github.com/pocket-id/pocket-id/issues/873) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
 <!--END_SECTION:activity-->
