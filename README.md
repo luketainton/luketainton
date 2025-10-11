@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#131](https://github.com/luketainton/epage/pull/131) in [luketainton/epage](https://github.com/luketainton/epage)
-2. ❌ Closed PR [#98](https://github.com/luketainton/epage/pull/98) in [luketainton/epage](https://github.com/luketainton/epage)
-3. ❌ Closed PR [#130](https://github.com/luketainton/epage/pull/130) in [luketainton/epage](https://github.com/luketainton/epage)
-4. ❌ Closed PR [#132](https://github.com/luketainton/epage/pull/132) in [luketainton/epage](https://github.com/luketainton/epage)
-5. ❌ Closed PR [#126](https://github.com/luketainton/epage/pull/126) in [luketainton/epage](https://github.com/luketainton/epage)
+1. 💪 Opened PR [#8](https://github.com/luketainton/docker-radius/pull/8) in [luketainton/docker-radius](https://github.com/luketainton/docker-radius)
+2. ❌ Closed PR [#131](https://github.com/luketainton/epage/pull/131) in [luketainton/epage](https://github.com/luketainton/epage)
+3. ❌ Closed PR [#98](https://github.com/luketainton/epage/pull/98) in [luketainton/epage](https://github.com/luketainton/epage)
+4. ❌ Closed PR [#130](https://github.com/luketainton/epage/pull/130) in [luketainton/epage](https://github.com/luketainton/epage)
+5. ❌ Closed PR [#132](https://github.com/luketainton/epage/pull/132) in [luketainton/epage](https://github.com/luketainton/epage)
 <!--END_SECTION:activity-->
 
 ---
