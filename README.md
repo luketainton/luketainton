@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1475](undefined) in [TwiN/gatus](https://github.com/TwiN/gatus)
-2. 💪 Opened PR [#1475](undefined) in [TwiN/gatus](https://github.com/TwiN/gatus)
-3. ❌ Closed PR [#342](undefined) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+1. 🎉 Merged PR [#1475](https://github.com/TwiN/gatus/pull/1475) in [TwiN/gatus](https://github.com/TwiN/gatus)
+2. 💪 Opened PR [#1475](https://github.com/TwiN/gatus/pull/1475) in [TwiN/gatus](https://github.com/TwiN/gatus)
+3. ❌ Closed PR [#342](https://github.com/luketainton/roboluke-tasks/pull/342) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
 4. 🗣 Commented on [#342](https://github.com/luketainton/roboluke-tasks/pull/342#issuecomment-3662668762) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
-5. ❌ Closed PR [#341](undefined) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+5. ❌ Closed PR [#341](https://github.com/luketainton/roboluke-tasks/pull/341) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
 <!--END_SECTION:activity-->
 
 ---
