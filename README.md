@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10016](https://github.com/go-gitea/gitea/issues/10016) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-2. 🗣 Commented on [#10016](https://github.com/go-gitea/gitea/issues/10016#issuecomment-3707232953) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-3. 🎉 Merged PR [#1475](https://github.com/TwiN/gatus/pull/1475) in [TwiN/gatus](https://github.com/TwiN/gatus)
-4. 💪 Opened PR [#1475](https://github.com/TwiN/gatus/pull/1475) in [TwiN/gatus](https://github.com/TwiN/gatus)
-5. ❌ Closed PR [#341](https://github.com/luketainton/roboluke-tasks/pull/341) in [luketainton/roboluke-tasks](https://github.com/luketainton/roboluke-tasks)
+1. ❌ Closed PR [#300](https://github.com/luketainton/pypilot/pull/300) in [luketainton/pypilot](https://github.com/luketainton/pypilot)
+2. ❌ Closed PR [#275](https://github.com/luketainton/PwnedPW/pull/275) in [luketainton/PwnedPW](https://github.com/luketainton/PwnedPW)
+3. 🔒 Closed issue [#10016](https://github.com/go-gitea/gitea/issues/10016) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+4. 🗣 Commented on [#10016](https://github.com/go-gitea/gitea/issues/10016#issuecomment-3707232953) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+5. 🎉 Merged PR [#1475](https://github.com/TwiN/gatus/pull/1475) in [TwiN/gatus](https://github.com/TwiN/gatus)
 <!--END_SECTION:activity-->
 
 ---
