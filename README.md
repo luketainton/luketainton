@@ -2,9 +2,9 @@
 
 ### About me:
 
-- 🔭 I’m currently working as a network engineer at Cisco
-- 🌱 I’m currently learning Cisco software-defined networks
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working as a Site Reliability Engineer at Cisco IT Networking.
+- 🌱 I’m currently learning Cisco software-defined networks.
+- 😄 Pronouns: he/him.
 
 ### Connect with me:
 
@@ -41,10 +41,7 @@
 
 ---
 
-[![luketainton's github stats](https://github-readme-stats.vercel.app/api?username=luketainton&count_private=true&show_icons=true)](https://github.com/luketainton)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luketainton)](https://github.com/luketainton)
-
 [website]: https://luke.tainton.uk
-[twitter]: https://twitter.com/luketainton1
+[twitter]: https://x.com/luketainton1
 [linkedin]: https://www.linkedin.com/in/luketainton
 [pubkey]: https://luke.tainton.uk/files/public.asc
