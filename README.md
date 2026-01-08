@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
-2. 🔒 Closed issue [#380](https://github.com/johanohly/AirTrail/issues/380) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
-3. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3725144610) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
-4. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3725070234) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
-5. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3724929299) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+1. 🎉 Merged PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+2. 💪 Opened PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+3. 🔒 Closed issue [#380](https://github.com/johanohly/AirTrail/issues/380) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+4. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3725144610) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+5. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3725070234) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 <!--END_SECTION:activity-->
 
 ---
