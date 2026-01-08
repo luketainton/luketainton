@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3725070234) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
-2. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3724929299) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
-3. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3724901076) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
-4. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3724826842) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
-5. ❗ Opened issue [#380](https://github.com/johanohly/AirTrail/issues/380) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+1. 🔒 Closed issue [#380](https://github.com/johanohly/AirTrail/issues/380) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+2. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3725144610) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+3. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3725070234) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+4. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3724929299) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+5. 🗣 Commented on [#380](https://github.com/johanohly/AirTrail/issues/380#issuecomment-3724901076) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 <!--END_SECTION:activity-->
 
 ---
