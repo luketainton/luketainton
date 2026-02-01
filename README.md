@@ -32,8 +32,8 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#27](https://github.com/DumbWareio/DumbWhoIs/issues/27) in [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)
-2. ❗ Opened issue [#167](https://github.com/hhftechnology/traefik-log-dashboard/issues/167) in [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard)
+1. 🗣 Commented on [#27](https://github.com/DumbWareio/DumbWhoIs/issues/27#issuecomment-3831975080) in [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)
+2. ❗ Opened issue [#27](https://github.com/DumbWareio/DumbWhoIs/issues/27) in [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)
 3. 🎉 Merged PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 4. 💪 Opened PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 5. 🔒 Closed issue [#380](https://github.com/johanohly/AirTrail/issues/380) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
