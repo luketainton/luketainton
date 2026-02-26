@@ -32,7 +32,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/DumbWareio/DumbWhoIs/issues/27#issuecomment-3831975080) in [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)
+1. ❌ Closed PR [#28](https://github.com/luketainton/actions_gha-workflows/pull/28) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
 2. ❗ Opened issue [#27](https://github.com/DumbWareio/DumbWhoIs/issues/27) in [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)
 3. 🎉 Merged PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 4. 💪 Opened PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
