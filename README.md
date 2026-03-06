@@ -32,9 +32,9 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#28](https://github.com/luketainton/actions_gha-workflows/pull/28) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
-2. ❗ Opened issue [#27](https://github.com/DumbWareio/DumbWhoIs/issues/27) in [DumbWareio/DumbWhoIs](https://github.com/DumbWareio/DumbWhoIs)
-3. 🎉 Merged PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
+1. ❌ Closed PR [#29](https://github.com/luketainton/actions_gha-workflows/pull/29) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
+2. ❌ Closed PR [#30](https://github.com/luketainton/actions_gha-workflows/pull/30) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
+3. ❌ Closed PR [#31](https://github.com/luketainton/actions_gha-workflows/pull/31) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
 4. 💪 Opened PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 5. 🔒 Closed issue [#380](https://github.com/johanohly/AirTrail/issues/380) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 <!--END_SECTION:activity-->
