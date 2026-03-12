@@ -32,7 +32,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/luketainton/actions_gha-workflows/pull/29) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
+1. ❌ Closed PR [#6](https://github.com/luketainton/6to4_converter/pull/6) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
 2. ❌ Closed PR [#30](https://github.com/luketainton/actions_gha-workflows/pull/30) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
 3. ❌ Closed PR [#31](https://github.com/luketainton/actions_gha-workflows/pull/31) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
 4. 💪 Opened PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
