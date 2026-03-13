@@ -32,9 +32,9 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/luketainton/6to4_converter/pull/6) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
-2. ❌ Closed PR [#30](https://github.com/luketainton/actions_gha-workflows/pull/30) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
-3. ❌ Closed PR [#31](https://github.com/luketainton/actions_gha-workflows/pull/31) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
+1. ℹ️ Labeled issue [#36897](https://github.com/go-gitea/gitea/issues/36897) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+2. ❗ Opened issue [#36897](https://github.com/go-gitea/gitea/issues/36897) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+3. ❌ Closed PR [#6](https://github.com/luketainton/6to4_converter/pull/6) in [luketainton/6to4_converter](https://github.com/luketainton/6to4_converter)
 4. 💪 Opened PR [#381](https://github.com/johanohly/AirTrail/pull/381) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 5. 🔒 Closed issue [#380](https://github.com/johanohly/AirTrail/issues/380) in [johanohly/AirTrail](https://github.com/johanohly/AirTrail)
 <!--END_SECTION:activity-->
