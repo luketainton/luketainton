@@ -32,10 +32,10 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/luketainton/status/issues/2) in [luketainton/status](https://github.com/luketainton/status)
-2. 🗣 Commented on [#2](https://github.com/luketainton/status/issues/2#issuecomment-4255404581) in [luketainton/status](https://github.com/luketainton/status)
-3. 🔒 Closed issue [#1](https://github.com/luketainton/status/issues/1) in [luketainton/status](https://github.com/luketainton/status)
-4. 🗣 Commented on [#1](https://github.com/luketainton/status/issues/1#issuecomment-4255403950) in [luketainton/status](https://github.com/luketainton/status)
+1. ℹ️ Assigned issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
+2. ℹ️ Labeled issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
+3. ℹ️ Labeled issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
+4. ❗ Opened issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
 5. ℹ️ Assigned issue [#2](https://github.com/luketainton/status/issues/2) in [luketainton/status](https://github.com/luketainton/status)
 <!--END_SECTION:activity-->
 
