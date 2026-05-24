@@ -32,7 +32,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
+1. 🔒 Closed issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
 2. ℹ️ Labeled issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
 3. ℹ️ Labeled issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
 4. ❗ Opened issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
