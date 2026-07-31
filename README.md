@@ -32,7 +32,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#32](https://github.com/luketainton/actions_gha-workflows/pull/32) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
+1. ❌ Closed PR [#33](https://github.com/luketainton/actions_gha-workflows/pull/33) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
 2. ℹ️ Labeled issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
 3. ℹ️ Labeled issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
 4. ❗ Opened issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
