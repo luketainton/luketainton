@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39064](https://github.com/go-gitea/gitea/issues/39064) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-2. 🗣 Commented on [#1718](https://github.com/pocket-id/pocket-id/issues/1718#issuecomment-5386887861) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-3. ❗ Opened issue [#1718](https://github.com/pocket-id/pocket-id/issues/1718) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-4. ❗ Opened issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
-5. ℹ️ Assigned issue [#2](https://github.com/luketainton/status/issues/2) in [luketainton/status](https://github.com/luketainton/status)
+1. 🗣 Commented on [#68](https://github.com/fbradyirl/webex_bot/issues/68#issuecomment-5387223614) in [fbradyirl/webex_bot](https://github.com/fbradyirl/webex_bot)
+2. 🗣 Commented on [#136](https://github.com/fbradyirl/webex_bot/pull/136#issuecomment-5387208269) in [fbradyirl/webex_bot](https://github.com/fbradyirl/webex_bot)
+3. ❌ Closed PR [#136](https://github.com/fbradyirl/webex_bot/pull/136) in [fbradyirl/webex_bot](https://github.com/fbradyirl/webex_bot)
+4. 💪 Opened PR [#136](https://github.com/fbradyirl/webex_bot/pull/136) in [fbradyirl/webex_bot](https://github.com/fbradyirl/webex_bot)
+5. ❗ Opened issue [#39064](https://github.com/go-gitea/gitea/issues/39064) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 <!--END_SECTION:activity-->
 
 ---
