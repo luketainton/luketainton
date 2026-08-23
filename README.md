@@ -32,8 +32,8 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1718](https://github.com/pocket-id/pocket-id/issues/1718) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
-2. ℹ️ Labeled issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
+1. 🗣 Commented on [#1718](https://github.com/pocket-id/pocket-id/issues/1718#issuecomment-5386887861) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
+2. ❗ Opened issue [#1718](https://github.com/pocket-id/pocket-id/issues/1718) in [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id)
 3. ℹ️ Labeled issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
 4. ❗ Opened issue [#3](https://github.com/luketainton/status/issues/3) in [luketainton/status](https://github.com/luketainton/status)
 5. ℹ️ Assigned issue [#2](https://github.com/luketainton/status/issues/2) in [luketainton/status](https://github.com/luketainton/status)
