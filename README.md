@@ -32,7 +32,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39064](https://github.com/go-gitea/gitea/issues/39064#issuecomment-5387915101) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+1. ❌ Closed PR [#34](https://github.com/luketainton/actions_gha-workflows/pull/34) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
 2. 🔒 Closed issue [#39064](https://github.com/go-gitea/gitea/issues/39064) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 3. 🗣 Commented on [#39064](https://github.com/go-gitea/gitea/issues/39064#issuecomment-5387734678) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 4. ❗ Opened issue [#39065](https://github.com/go-gitea/gitea/issues/39065) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
