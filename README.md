@@ -32,7 +32,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/luketainton/luke_rsu/pull/2) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
+1. ❌ Closed PR [#1](https://github.com/luketainton/repos_brother-scan-web/pull/1) in [luketainton/repos_brother-scan-web](https://github.com/luketainton/repos_brother-scan-web)
 2. ❌ Closed PR [#1](https://github.com/luketainton/luke_rsu/pull/1) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
 3. ❌ Closed PR [#35](https://github.com/luketainton/actions_gha-workflows/pull/35) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
 4. ❗ Opened issue [#39065](https://github.com/go-gitea/gitea/issues/39065) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
