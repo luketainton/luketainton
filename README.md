@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
-2. ℹ️ Assigned issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
-3. ℹ️ Labeled issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
-4. ❗ Opened issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
-5. ❌ Closed PR [#1](https://github.com/luketainton/repos_brother-scan-web/pull/1) in [luketainton/repos_brother-scan-web](https://github.com/luketainton/repos_brother-scan-web)
+1. 🔒 Closed issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+2. ℹ️ Labeled issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+3. ℹ️ Assigned issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+4. ℹ️ Labeled issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+5. ❗ Opened issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
 <!--END_SECTION:activity-->
 
 ---
