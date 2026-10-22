@@ -32,11 +32,11 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/luketainton/repos_brother-scan-web/pull/1) in [luketainton/repos_brother-scan-web](https://github.com/luketainton/repos_brother-scan-web)
-2. ❌ Closed PR [#1](https://github.com/luketainton/luke_rsu/pull/1) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
-3. ❌ Closed PR [#35](https://github.com/luketainton/actions_gha-workflows/pull/35) in [luketainton/actions_gha-workflows](https://github.com/luketainton/actions_gha-workflows)
-4. ❗ Opened issue [#39065](https://github.com/go-gitea/gitea/issues/39065) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-5. ❌ Closed PR [#136](https://github.com/fbradyirl/webex_bot/pull/136) in [fbradyirl/webex_bot](https://github.com/fbradyirl/webex_bot)
+1. ℹ️ Labeled issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+2. ℹ️ Assigned issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+3. ℹ️ Labeled issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+4. ❗ Opened issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+5. ❌ Closed PR [#1](https://github.com/luketainton/repos_brother-scan-web/pull/1) in [luketainton/repos_brother-scan-web](https://github.com/luketainton/repos_brother-scan-web)
 <!--END_SECTION:activity-->
 
 ---
