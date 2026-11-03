@@ -32,7 +32,7 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/luketainton/status/issues/4#issuecomment-6341379027) in [luketainton/status](https://github.com/luketainton/status)
+1. ❌ Closed PR [#3](https://github.com/luketainton/luke_rsu/pull/3) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
 2. 🔒 Closed issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
 3. ℹ️ Labeled issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
 4. ℹ️ Assigned issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
