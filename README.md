@@ -32,10 +32,10 @@
 
 ### 📋 Latest GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/luketainton/repos_PwnedPW-Rust/pull/1) in [luketainton/repos_PwnedPW-Rust](https://github.com/luketainton/repos_PwnedPW-Rust)
-2. ❌ Closed PR [#4](https://github.com/luketainton/luke_rsu/pull/4) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
-3. ❌ Closed PR [#3](https://github.com/luketainton/luke_rsu/pull/3) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
-4. ℹ️ Assigned issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
+1. ❌ Closed PR [#5](https://github.com/luketainton/luke_rsu/pull/5) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
+2. ❌ Closed PR [#1](https://github.com/luketainton/repos_PwnedPW-Rust/pull/1) in [luketainton/repos_PwnedPW-Rust](https://github.com/luketainton/repos_PwnedPW-Rust)
+3. ❌ Closed PR [#4](https://github.com/luketainton/luke_rsu/pull/4) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
+4. ❌ Closed PR [#3](https://github.com/luketainton/luke_rsu/pull/3) in [luketainton/luke_rsu](https://github.com/luketainton/luke_rsu)
 5. ℹ️ Labeled issue [#4](https://github.com/luketainton/status/issues/4) in [luketainton/status](https://github.com/luketainton/status)
 <!--END_SECTION:activity-->
 
